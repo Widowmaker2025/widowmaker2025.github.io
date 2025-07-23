@@ -1,0 +1,45 @@
++++
+title = "Personal Branding Experiments #2"
+description = "Experimenting with my logo once again, with something actually new this time."
+[taxonomies]
+tags = ["100DaysToOffload", "Design", "Inkscape"]
+[extra]
+accent_color = ["hsl(17.045454 69% 50%)", "hsl(297.66235 35% 57%)"]
+banner = "banner.webp"
+[extra.fediverse]
+host = "vmst.io"
+user = "daudix"
+id = "113165388369757692"
++++
+
+Remember when I wrote in the previous blog post:
+
+> Experimented with my personal branding, this time completely new designs executed in monochrome. About this in the next post later today, I suppose.
+
+Here I am, a week later. Classic me.
+
+This whole "branding experiments" session wasn't planned and happened accidentally when I decided to tweak the [DejaVu design](@/blog/2024-08-17-brand-experiments/index.md) a bit; I got carried away with the blend modes and it turned into a blank black canvas on which I started overlaying white circles in variety of ways, getting some neat results. Some turned out better than the others, but only one of them was logo-shaped.
+
+<div class="media-grid-markdown">
+
+[!["Checkmate" logo.](checkmate.png)](https://raw.githubusercontent.com/daudix/assets/6a9442fb432facba26c74c48043a851dc54d5704/daudix/experiments/checkmate.png)
+[!["Jet" logo.](jet.png)](https://raw.githubusercontent.com/daudix/assets/6a9442fb432facba26c74c48043a851dc54d5704/daudix/experiments/jet.png)
+[!["Ranbow (mono)" logo.](rainbow-mono.png)](https://raw.githubusercontent.com/daudix/assets/6a9442fb432facba26c74c48043a851dc54d5704/daudix/experiments/rainbow-mono.png)
+[!["Spiral" logo.](spiral.png)](https://raw.githubusercontent.com/daudix/assets/6a9442fb432facba26c74c48043a851dc54d5704/daudix/experiments/spiral.png)
+[!["Spring" logo.](spring.png)](https://raw.githubusercontent.com/daudix/assets/6a9442fb432facba26c74c48043a851dc54d5704/daudix/experiments/spring.png)
+[!["Tunnel" logo.](tunnel.png)](https://raw.githubusercontent.com/daudix/assets/6a9442fb432facba26c74c48043a851dc54d5704/daudix/experiments/tunnel.png)
+</div>
+
+See that "D"? Yeah, it was the last one in the batch and I kinda liked it, so I made a few more versions, that you might've already noticed on the homepage.
+
+<div class="media-grid-markdown">
+
+[!["Rainbow" logo.](rainbow.png)](https://raw.githubusercontent.com/daudix/assets/6a9442fb432facba26c74c48043a851dc54d5704/daudix/experiments/rainbow.png)
+[!["Rainbow (grayscale)" logo.](rainbow-grayscale.png)](https://raw.githubusercontent.com/daudix/assets/6a9442fb432facba26c74c48043a851dc54d5704/daudix/experiments/rainbow-grayscale.png)
+</div>
+
+The colored variant looks cool, has retro vibes (Commodore/Apple logos), uses [Monokai Pro palette](https://github.com/subtheme-dev/monokai-pro/blob/4978c01ff3116e4dd19825d93e4e6c182d361764/colors/default.yaml), and has some hidden meaning; <span class="spoiler solid">it is rainbow shaped if you rotate it, the purple line stands on its own and is bold because it's my favorite color</span> (my little sister successfully noticed these, so I guess these aren't that obscure), but it's too colorful to use everywhere, for my taste, so I made a grayscale variant and it looks more interesting than the completely monochrome one, while still being serious-ish.
+
+After I made these I decided to run them through reverse image search (Yandex is the best at this), and turns out there are some pretty similar logos out there, but I haven't found too-similar-looking "D" so that's nice.
+
+And that's about it. See you in the next one and have a good day/night!

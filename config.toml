@@ -1,0 +1,138 @@
+# Zola 配置文件
+# 默认主题: Ametrine , 辅助主题: 
+# Zola的主题 会有更好的, 但无需追求最新的, 适用即可
+#2025 ~ 至今, Ametrine 足够使用, 期待它的正式版发布
+
+base_url = "https://widowmaker2025.github.io/"
+#default_language = "zh"
+title = "黑百合 | Home"
+# base_url = "/"
+description = "主要关注技术，读书，工具分享等方向."
+
+theme = "ametrine"
+
+generate_feeds = true
+minify_html = true
+compile_sass = true
+
+feed_filenames = ["atom.xml", "rss.xml"]
+build_search_index = true
+author = "widowmaker2025"
+
+taxonomies = [
+  { name = "tags", feed = true, paginate_by = 20 },
+  { name = "categories", feed = true , paginate_by = 50},
+]
+
+[markdown]
+highlight_code = true
+extra_syntaxes_and_themes = ["themes/ametrine/sublime"]
+highlight_theme = "css"
+highlight_themes_css = [
+  { theme = "monokai-pro-dark", filename = "syntax-theme-dark.css" },
+  { theme = "monokai-pro-light", filename = "syntax-theme-light.css" },
+]
+smart_punctuation = true
+bottom_footnotes = true
+external_links_class = "external"
+github_alerts = true
+# highlight_theme = "material-dark"
+# Whether external links are to be opened in a new tab
+# If this is true, a `rel="noopener"` will always automatically be added for security reasons
+external_links_target_blank = true
+
+# Whether to set rel="nofollow" for all external links
+external_links_no_follow = true
+
+# Whether to set rel="noreferrer" for all external links
+external_links_no_referrer = true
+# wait https://github.com/getzola/zola/issues/2679
+lazy_async_image = false
+
+[search]
+index_format = "elasticlunr_json"
+
+[extra]
+categories = [
+  { name = "Archived", description = "Posts that have been archived due to their age.", color = "purple", icon = "box-arrow-down" },
+  { name = "Featured", description = "Posts that are somewhat decently written.", color = "yellow", icon = "star" },
+  { name = "Hot", description = "Posts that did numbers compared to others.", color = "red", icon = "fire" },
+  { name = "Test", description = "Categories can be set and customized entirely from config, woo-hoo!", color = "green", icon = "feather" },
+]
+# accent_color = "<red, orange, yellow, green, blue, purple>"
+# Rum, London Hue
+accent_color = ["hsl(270 13% 48%)", "hsl(290 20% 71%)"]
+home_url = "@/home/index.md"
+issues_url = "https://github.com/daudix/daudix.one/issues/new"
+source_url = "https://github.com/daudix/daudix.one"
+show_copy_button = true
+show_reading_time = true
+show_backlinks = true
+date_format = "%d %B %Y"
+date_format_long = "%d %B %Y, %R (%Z)"
+date_locale = "en_IE"    # 等待 Zola 或 默认主题 的 内置 简中支持 
+timezone = "Asia/Shanghai"   
+show_comments_qr = false
+csp = [
+	{ directive = "font-src", domains = ["'self'"] },
+	{ directive = "img-src", domains = ["'self'", "https:", "data:"] },
+	{ directive = "media-src", domains = ["'self'", "https:"] },
+	{ directive = "script-src", domains = ["cloud.umami.is"] },
+	{ directive = "style-src", domains = ["'self'", "'unsafe-inline'"] },
+	{ directive = "frame-src", domains = ["https://www.youtube-nocookie.com", "https://incr.easrng.net", "https://vmst.io", "https://drive.google.com"] },
+  { directive = "connect-src", domains = ["*.umami.dev", "cloud.umami.is", "https://status.cafe", "https://api.lanyard.rest", "https://ws.audioscrobbler.com", "https://discord.com"] },
+	{ directive = "base-uri", domains = ["'none'"] },
+	{ directive = "form-action", domains = ["'none'"] }
+]
+
+[extra.meta]
+favicon = "favicon.gif"
+apple_touch_icon = true
+card = true
+
+[extra.nav]
+icon = "widowmaker.png"  # 网站图标  static文件夹
+links = [
+  { name = "Writing", category = [
+    { url = "@/blog/_index.md", name = "博客 | Blogs", icon = "newspaper-clipping" },
+    { url = "@/nanolog/_index.md", name = "碎碎念 | Atomic Notes", icon = "note-pencil" },
+  ] },
+
+# 关注 输入, 更重视 输出
+  { name = "Extra", category = [
+    { url = "@/coffee/index.md", name = "赞助 - 一杯咖啡", icon = "coffee" },
+    { url = "@/websitelog/_index.md", name = "网站更新日志 | Update Blogs", icon = "info" },
+  ] },
+]
+
+[extra.footer]
+copyright = true
+show_fediring = false
+show_timestamp = true
+show_powered_by = true
+socials = [
+  { url = "https://bsky.app/profile/daudix.one", icon = "bluesky" },
+  { url = "https://wetdry.world/@daudix", icon = "mastodon" },
+  { url = "https://discord.com/users/650757995378114581", icon = "discord" },
+  { url = "https://signal.me/#eu/b4KzM1OB3uW52mMywHUJa8h6yD4ATY_KXJJiuJtWUxOVAJP22PVO_qoNGFnf32W7", icon = "signal" },
+  { url = "https://codeberg.org/daudix", icon = "codeberg" },
+]
+
+[extra.fediverse]
+host = "wetdry.world"
+user = "daudix"
+show_qr = true
+
+
+# 网站访问量统计工具
+[extra.analytics]
+service = "umami"
+id = "3dbc6c32-f4f0-420e-bdb8-cfcaff7e7201"
+self_hosted_url = "https://daudix.one/api"
+do_not_track = false
+
+[extra.debug]
+layout = false
+no_styles = false
+no_emojis = true
+

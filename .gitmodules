@@ -1,0 +1,5 @@
+[submodule "themes/ametrine"]
+	path = themes/ametrine
+	url = https://codeberg.org/daudix/ametrine.git
+
+# Zola主题子模块存储地址,后续更新为只获取最新版本,舍弃历史记录
