@@ -78,7 +78,7 @@ Thing I hate doing the most; telling about myself.
 <li>
 <article>
 
-**I'm originating from Siberia,** but currently residing in <abbr id="abyss" title="If you know, you know">abyss</abbr>. That means that I'm a native Russian speaker, что в каком-то смысле довольно прикольно..?
+**我来自 中国 ,** but currently residing in <abbr id="abyss" title="If you know, you know">abyss</abbr>. 测试启动?
 </article>
 </li>
 <!-- Card End -->
