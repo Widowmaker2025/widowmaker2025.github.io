@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>黑百合 | Home - Unsplash</title>
+    <subtitle>主要关注技术，读书，工具分享等方向.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://widowmaker2025.github.io/tags/unsplash/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-26T00:00:00+00:00</updated>
+    <id>https://widowmaker2025.github.io/tags/unsplash/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Download Deleted Photos from Unsplash in Original Quality</title>
+        <published>2024-09-02T00:00:00+00:00</published>
+        <updated>2024-09-26T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              widowmaker2025
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/blog/downloading-deleted-unsplash-photos/"/>
+        <id>https://widowmaker2025.github.io/blog/downloading-deleted-unsplash-photos/</id>
+        
+        <content type="html" xml:base="https://widowmaker2025.github.io/blog/downloading-deleted-unsplash-photos/">&lt;h2 id=&quot;backstory&quot;&gt;Backstory&lt;&#x2F;h2&gt;
+&lt;p&gt;I was making a banner for the &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;deploying-to-codeberg-pages&#x2F;&quot;&gt;Codeberg Pages&lt;&#x2F;a&gt; post and wanted to use the same mountain image as on the Codeberg landing page. Since I couldn’t find the source on their website, I went to the Git history of the somewhat relevant repositories under various Codeberg organizations and found the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;Codeberg-Infrastructure&#x2F;forgejo&#x2F;pulls&#x2F;35&quot;&gt;homepage renovation pull request&lt;&#x2F;a&gt;, which mentioned the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;Codeberg-Infrastructure&#x2F;forgejo&#x2F;pulls&#x2F;35#issuecomment-494030&quot;&gt;source&lt;&#x2F;a&gt;. Unfortunately, the page returned a 404.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;downloading-deleted-unsplash-photos&#x2F;404-page.png&quot; alt=&quot;404 page.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;All I had to do was right-click and open the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20210124002804&#x2F;https:&#x2F;&#x2F;unsplash.com&#x2F;photos&#x2F;3K6ZkYBj2Xo&quot;&gt;last Wayback Machine snapshot&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;downloading-deleted-unsplash-photos&#x2F;right-click-menu.png&quot; alt=&quot;Firefox context menu with the item “Wayback Machine &amp;gt; Newest Version” highlighted.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Obviously, the download buttons didn’t work, so I visited the photo author’s Unsplash profile, but it returned a placeholder, so I used the one archived by Wayback Machine.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;downloading-deleted-unsplash-photos&#x2F;john-guest.png&quot; alt=&quot;John Guest’s profile.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Unfortunately, &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.lubomirminar.com&quot;&gt;his website&lt;&#x2F;a&gt; didn’t have the photo I needed, so I had to use what I had: the thumbnail; its size was fine for the banner, so I went ahead and used it.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;downloading-deleted-unsplash-photos&#x2F;wayback-machine-snapshot.png&quot; alt=&quot;Screenshot of the Wayback Machine archive of the page.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;But the fact that a low quality thumbnail was used for the banner kept bothering me, so I decided to locate the source.&lt;&#x2F;p&gt;
+&lt;p&gt;Upon inspecting the link to the thumbnail image on Unsplash, I noticed that you can change some of its attributes to get a higher quality image, so I returned to the mountain photo snapshot and copied the link to it, removed the Wayback Machine prefix, and to my surprise it was still available, probably because &lt;code&gt;images.unsplash.com&lt;&#x2F;code&gt; keeps the deleted images anyway to avoid breaking hotlinks.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-solution&quot;&gt;The solution&lt;&#x2F;h2&gt;
+&lt;p&gt;So what’s the perfect combination of link attributes to get the original image? It’s &lt;code&gt;?auto=format&amp;amp;q=100&lt;&#x2F;code&gt;, these individually won’t return the original image, but together they will.&lt;&#x2F;p&gt;
+&lt;p&gt;The resulting URL should look like this, without all the extra stuff like site tracking.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;https:&#x2F;&#x2F;images.unsplash.com&#x2F;photo-1575908524891-b0bdd2b99f90?auto=format&amp;amp;q=100
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The solution, as you guessed, requires the existence of at least one &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&quot;&gt;Wayback Machine&lt;&#x2F;a&gt; snapshot with the thumbnail; if there is no such snapshot, this hack won’t work because the &lt;code&gt;images.unsplash.com&lt;&#x2F;code&gt; image ID is different from the one on &lt;code&gt;unsplash.com&lt;&#x2F;code&gt;. Still better than nothing, huh?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;Was it worth it? &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;daudix&#x2F;daudix.one&#x2F;commit&#x2F;dfcaefd202553b867611254791eaab4bc316a812&quot;&gt;Maybe&lt;&#x2F;a&gt;, maybe not. This shows once again how much I care about stupid little things that no one would ever notice.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

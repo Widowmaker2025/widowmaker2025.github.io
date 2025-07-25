@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>黑百合 | Home - Dumbphone</title>
+    <subtitle>主要关注技术，读书，工具分享等方向.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://widowmaker2025.github.io/tags/dumbphone/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-08-05T00:00:00+00:00</updated>
+    <id>https://widowmaker2025.github.io/tags/dumbphone/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Pixel&#x27;s Suicide and My Switch to a Dumbphone</title>
+        <published>2024-07-08T00:00:00+00:00</published>
+        <updated>2024-08-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              widowmaker2025
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/blog/using-dumbphone/"/>
+        <id>https://widowmaker2025.github.io/blog/using-dumbphone/</id>
+        
+        <content type="html" xml:base="https://widowmaker2025.github.io/blog/using-dumbphone/">&lt;h2 id=&quot;backstory&quot;&gt;Backstory&lt;&#x2F;h2&gt;
+&lt;p&gt;Somewhere in the middle of 2021, I got my favorite phone yet: Pixel 3 (white, with a teal power button, 64GB model).&lt;&#x2F;p&gt;
+&lt;p&gt;Let’s rewind a bit earlier. &lt;em&gt;Rewind sounds intensifies.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;using-dumbphone&#x2F;iphone-7.jpg#end&quot; alt=&quot;iPhone 7.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;A while back, I’ve used an iPhone 7 (gold, 128GB). It was a great device, and later on, it was fun to jailbreak, all until one day when Apple put an end to jailbreak with the release of iOS 15 (potential post?).&lt;&#x2F;p&gt;
+&lt;p&gt;Since then, I’ve been thinking about a replacement. Around the same time, I started to care about privacy and FOSS alternatives to popular apps, so I looked for something that allowed installing custom ROMs (and had a great camera, of course). I knew exactly what this device was–Pixel 3.&lt;&#x2F;p&gt;
+&lt;p&gt;When the time came, we got it without a doubt, and it was an amazing device; the camera was as great as advertised, the OLED screen after IPS was something revolutionary, and battery life, oh boy, it was times better than the non-existent longevity of the iPhone. I had used Android phones before, so openness wasn’t something new for me.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;using-dumbphone&#x2F;iphone-se.jpg#end&quot; alt=&quot;iPhone SE.&quot; &#x2F;&gt;
+&lt;blockquote class=&quot;markdown-alert-fact&quot;&gt;
+	&lt;p&gt;We got it by exchanging it for an iPhone SE (the one that looks like iPhone 5) with some extra cash, since its owner wanted to switch to iOS–the opposite of what we wanted to do XD&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;p&gt;
+&lt;p&gt;After enjoying the stock ROM for 2 weeks&#x2F;month, I decided to finally give custom ROMs a shot. My first one was LineageOS, and it’s still my favorite; no bloat, the latest Android, plus some useful perks.&lt;&#x2F;p&gt;
+&lt;p&gt;Of course, I’ve tried out the famous &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;grapheneos.org&quot;&gt;GrapheneOS&lt;&#x2F;a&gt;, but I wasn’t impressed by it; it was just as out-of-date as the stock ROM and the launcher was kinda meh.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ve tried other ROMs as well, such as &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;calyxos.org&#x2F;&quot;&gt;CalyxOS&lt;&#x2F;a&gt;, &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pixelbuilds.org&#x2F;&quot;&gt;PixelBuilds&lt;&#x2F;a&gt;, and a &lt;em&gt;bunch&lt;&#x2F;em&gt; of others, names of which I forgor 💀. Most of them were either bloated or low-effort remixes of LineageOS, so I just ended up using the original.&lt;&#x2F;p&gt;
+&lt;p&gt;Custom ROMs without Google services are quite sad though; no notifications in most apps, some apps won’t launch at all, so I’ve used a combination of &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;topjohnwu&#x2F;Magisk&quot;&gt;Magisk&lt;&#x2F;a&gt; and &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nift4&#x2F;microg_installer_revived&quot;&gt;this microG module&lt;&#x2F;a&gt;. This setup was the most optimal one, i.e. &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;lineage.microg.org&quot;&gt;LineageOS for microG&lt;&#x2F;a&gt; is out-of-date and offers the same functionality as said Magisk module. I also didn’t use a custom recovery such as TWRP, since it was pretty useless for me (you can re-root after an OTA update right from Magisk), plus, it didn’t survive OTA updates ¯\_(ツ)_&#x2F;¯&lt;&#x2F;p&gt;
+&lt;p&gt;One day (Dec 21, 2022, around 4am) something silly happened to it. I was doing my bed before going to sleep, and I didn’t notice that it was sitting on the blanket, and, well, I shook out the blanket and it flew with the speed of light right onto the metal chair leg, and of course, that day I didn’t put the cover on. Frankly it all came down to a broken back glass. Imagine if it had fallen on the screen…&lt;&#x2F;p&gt;
+&lt;p&gt;Otherwise, everything was almost perfect. I found the perfect setup and simply enjoyed my phone; took photos, mindlessly scrolled through social media, chatted the same way I could on a laptop, this kind of stuff.&lt;&#x2F;p&gt;
+&lt;p&gt;Then, on the evening of the 16th of April…&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Why the intrigue, you know exactly what will happen next, since you saw the title and maybe read previous posts :^)&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;here-we-go-again&quot;&gt;Here We Go Again&lt;&#x2F;h2&gt;
+&lt;p&gt;It suddenly stopped turning on. Yup, one more dead device.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;No, life, this joke doesn’t get funnier with repetition! :&#x2F;&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;It was sitting on my desk. I checked the mail and chats as usual, sent a few messages, and put it back. 10 minutes later I came back, only to find it having no signs of life.&lt;&#x2F;p&gt;
+&lt;p&gt;Total absence; no vibration, no sound, nothing on the screen, even nothing when connecting to a PC.&lt;&#x2F;p&gt;
+&lt;p&gt;Turns out, I’m not the first, and not even the second person to have this exact issue. A &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;GooglePixel&#x2F;comments&#x2F;nn7tcn&#x2F;pixel_3_suddenly_off_and_nothing_will_turn_it&#x2F;&quot;&gt;lot of others&lt;&#x2F;a&gt; have &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;xdaforums.com&#x2F;t&#x2F;fix-pixel-3-qusb_bulk_cid-xxxx_sn-xxxxxxxx.4205331&#x2F;&quot;&gt;reported the same scenario&lt;&#x2F;a&gt; and no one managed to get it to boot again. Some took it to repair shops, where they were told to replace the screen, but since the issue was not the screen but rather a hardware bug in the CPU (!!!) that causes the device to stuck in EDL mode, it didn’t help. Instead, Google sent them new devices.&lt;&#x2F;p&gt;
+&lt;p&gt;Given how popular this problem is, Google should’ve shared the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;xdaforums.com&#x2F;t&#x2F;fix-pixel-3-qusb_bulk_cid-xxxx_sn-xxxxxxxx.4205331&#x2F;post-84929449&quot;&gt;signed firehose programmer&lt;&#x2F;a&gt; so people could at least try to do something about it, but 4 years later they still haven’t.&lt;&#x2F;p&gt;
+&lt;p&gt;Alright, I lied that no one managed to boot it again. One or two managed to boot it after leaving it for a year in a drawer without charging, but &lt;em&gt;that’s it&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;After trying everything possible and impossible to turn it back on (letting it discharge for a few weeks, beating it, pressing all the buttons for different durations and combinations, did I mention Russian beating?) I gave up and accepted the fact that I will never get out all my photos, Signal chats, and everything else that wasn’t backed up (I didn’t back up for like forever), and put it in the drawer. I still check it regularly, but I don’t have hopes for it.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;dumb-situation&quot;&gt;Dumb Situation&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;using-dumbphone&#x2F;nokia-100.jpg#end&quot; alt=&quot;Nokia 100.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I had nothing to do but to pull out an old dumbphone; Nokia 100 from 2011!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Whoa, whoa, whoa!&lt;&#x2F;em&gt; what do you mean by a dumbphone? Do you mean simply an old phone or- No, I mean a “Feature phone,” the one even dumber than me.&lt;&#x2F;p&gt;
+&lt;p&gt;It’s actually “Schrödinger’s old;” it’s been manufactured in 2011, but it’s still perfectly new, it wasn’t really used until I took it.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ve been considering switching to a dumbphone to reduce my screen time before, but it was just considerations. Now, it’s a perfect opportunity for this (not that I have a choice :P).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;using-dumbphone&#x2F;reminder.jpg#start&quot; alt=&quot;Reminder.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;To this day, I use it to set my morning alarm—yes, alarm in singular, it can’t set multiple—to check the time, and sometimes to put some thoughts in its reminders app (that only allows super short sentences) to then rewrite them on my laptop. It also has some exclusive game titles, like “Forbidden Treasures”, “Vacation Solitaire”, and the famous “Snake Xenzia” (sounds almost like &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;xenia-linux-site.glitch.me&quot;&gt;Xenia&lt;&#x2F;a&gt; XD).&lt;&#x2F;p&gt;
+&lt;p&gt;Battery life doesn’t need any praise; nearly a week on a single charge speaks up for itself.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;video class=&quot;end&quot; alt=&quot;Themes.&quot; controls src=&quot;themes.webm&quot;&gt;&lt;&#x2F;video&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Now, listen closely &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;unixporn&#x2F;&quot;&gt;r&#x2F;unixporn&lt;&#x2F;a&gt; enjoyers, this phone has something for you; built-in recoloring system, with some built-in wallpapers! I know, it’s shocking, but it’s real.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;using-dumbphone&#x2F;calendar.jpg#start&quot; alt=&quot;Calendar.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;As for the calendar, I switched to a paper one hanging on the wall.&lt;&#x2F;p&gt;
+&lt;p&gt;Turns out it’s a nice feeling to circle out days every morning and be able to highlight some days with the marker. The only issue is that I eventually forget what they supposed to mean &lt;em&gt;giggles&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ve moved to my laptop for all the stuff I did on mobile, and not only is it faster and easier, it’s also less addicting, since it requires more effort to pick up a laptop than to lift up a phone to scroll through social media. And it turns out you don’t need to respond to everything the second it arrives, it can wait until you open your laptop, perhaps even longer.&lt;&#x2F;p&gt;
+&lt;p&gt;I enjoy this journey so far, and have no plans on returning to a smartphone. I’ve been way more productive and, perhaps, slightly happier.&lt;&#x2F;p&gt;
+&lt;p&gt;The only issue I have is that the dumbphone is, well, old, so it can’t call and send&#x2F;receive SMS, which is the entire purpose of a phone like this one. That’s because it depends on a recently shutdown 2G, and now 3G is a minimal requirement by carriers. Not that I call a lot–1-2 times a year, even then it’s spam calls–but I still need SMS messages for 2FA.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;My old phone was awesome, and I enjoyed every day of using it, but I also do enjoy using my new phone, maybe it’s a bit dumb, but it’s cute ^_^&lt;&#x2F;p&gt;
+&lt;p&gt;Free time from lack of phone and 100 Days To Offload is a good combination, although I do feel a bit overwhelmed (alright, not a &lt;em&gt;bit&lt;&#x2F;em&gt;, very much so) by not following the graph well and not having enough good ideas for posts, plus I’m not satisfied by the quality of the posts, I think I can do better.&lt;&#x2F;p&gt;
+&lt;p&gt;P.S. I overused inline images, didn’t I?&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

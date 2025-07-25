@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>黑百合 | Home - Devlog</title>
+      <link>https://widowmaker2025.github.io/</link>
+      <description>主要关注技术，读书，工具分享等方向.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://widowmaker2025.github.io/tags/devlog/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>One Little Domain or How I Got My First Domain</title>
+          <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/my-first-domain/</link>
+          <guid>https://widowmaker2025.github.io/blog/my-first-domain/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/my-first-domain/">&lt;blockquote class=&quot;markdown-alert-note&quot;&gt;
+&lt;p&gt;I know I said in the &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;not-that-latitude&#x2F;&quot;&gt;previous post&lt;&#x2F;a&gt; that the next post would be about how my Pixel 3 committed suicide, but I didn’t quite feel like publishing 3 posts in a row about my devices dying and being replaced, plus I haven’t researched the topic enough and don’t have much to tell about the replacement, so it will stay in the drafts folder for a bit longer.&lt;&#x2F;p&gt;
+&lt;p&gt;I do have another post in the works and expect it to be quite interesting, so yeah!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Today—I mean, the 22nd of June—I fulfilled my little dream: I got my very own domain!&lt;&#x2F;p&gt;
+&lt;p&gt;Yes, you read that right. My dream was to have my own domain. I don’t know what’s wrong with me; I just wanted it so badly.&lt;&#x2F;p&gt;
+&lt;p&gt;At first (back in the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20221030010150&#x2F;https:&#x2F;&#x2F;daudix-ufo.github.io&#x2F;&quot;&gt;“Space” theme era&lt;&#x2F;a&gt;), I thought I’d get daudix.space, but later on changed my mind since I’m not really into astronomy, it felt a bit lengthy and I didn’t plan on hosting public services, which are usually associated with this &lt;abbr title=&quot;top-level domain&quot;&gt;TLD&lt;&#x2F;abbr&gt;. I considered other options, but they were expensive. Then I remembered about &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;zagura.one&quot;&gt;zagura.one&lt;&#x2F;a&gt; and &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;seirdy.one&quot;&gt;seirdy.one&lt;&#x2F;a&gt;, what was common about them is this nice TLD: one.&lt;&#x2F;p&gt;
+&lt;p&gt;It was perfect: &lt;em&gt;one&lt;&#x2F;em&gt; of the cheapest options, &lt;em&gt;one&lt;&#x2F;em&gt; of a kind, and not a boring &lt;em&gt;one&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;markdown-alert-fact&quot;&gt;
+	&lt;p&gt;Only after getting the domain, I realized it’s actually a huge &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=EE4mslnibzQ&quot;&gt;one&lt;&#x2F;a&gt; reference. So yes, the pun was not in fact intended.&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;A while later, I finally decided it was time, even if I might not be able to pay for the next year.&lt;&#x2F;p&gt;
+&lt;p&gt;And so, in the early morning of June 22nd, I started the research with serious intentions. First, I checked &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;porkbun.com&quot;&gt;Porkbun&lt;&#x2F;a&gt; since I heard good things about it and &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;exozy.me&quot;&gt;exozyme&lt;&#x2F;a&gt; (the coziest community) uses it as far as I know. Surprisingly, daudix.one was super cheap—just $1.57 (renewal will cost $13.88, which is still cheaper than many other options).&lt;&#x2F;p&gt;
+&lt;p&gt;For fun, I also checked daudix.io, which cost a whopping $40! Then I checked &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.cloudflare.com&#x2F;learning&#x2F;dns&#x2F;what-is-cloudflare-registrar&#x2F;&quot;&gt;Cloudflare Registrar&lt;&#x2F;a&gt; since apparently they charge only the required fees without any markup, but it didn’t have .one TLD, so I checked &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.namecheap.com&#x2F;&quot;&gt;Namecheap&lt;&#x2F;a&gt;, where daudix.one cost $2.60 or something like that. So I settled on Porkbun.&lt;&#x2F;p&gt;
+&lt;p&gt;One registration and payment later, I got &lt;em&gt;that&lt;&#x2F;em&gt; email from Porkbun!&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;my-first-domain&#x2F;porkbun-invoice.png&quot; alt=&quot;Porkbun invoice.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;The long-awaited Porkbun invoice stating that I have just successfully purchased a daudix.one domain&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;“Hooray!” - thought I. Promptly I tried connecting it to &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.page&quot;&gt;Codeberg Pages&lt;&#x2F;a&gt;, but it didn’t go well, so I went to sleep.&lt;&#x2F;p&gt;
+&lt;p&gt;In the evening of the same day, I tried to finish the setup, but after countless attempts, I gave up and had to refund it :&amp;lt;&lt;&#x2F;p&gt;
+&lt;p&gt;Just kidding, Porkbun doesn’t accept refunds.&lt;&#x2F;p&gt;
+&lt;p&gt;I asked for help in Codeberg’s Matrix room and promptly got some suggestions. They didn’t work on their own, but putting my issue into words helped me realize something: I used an obscure method of deploying Codeberg pages by pushing static files to the &lt;code&gt;pages&lt;&#x2F;code&gt; branch of the &lt;code&gt;pages&lt;&#x2F;code&gt; repo, while the &lt;code&gt;main&lt;&#x2F;code&gt; branch is supposed to be used for static files. This confused the Pages server, causing it to spit out some unhelpful error messages. After renaming the repository to &lt;code&gt;website&lt;&#x2F;code&gt; and re-adding some scary IP addresses and TXTs into Porkbun one more time… it still didn’t work.&lt;&#x2F;p&gt;
+&lt;p&gt;I was super tired and had no will to mess with this that day, so I kinda forgot about it and gone to do some other stuff.&lt;&#x2F;p&gt;
+&lt;p&gt;Only to return and find it working!&lt;&#x2F;p&gt;
+&lt;p&gt;Yes, apparently it needed a bit more time than 15 minutes to fully propagate. In the end, everything was working, so I repeated the steps to make Duckquill use its own subdomain. It was a bit of a pain (mostly me making silly typos), but I got it working eventually.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;my-first-domain&#x2F;porkbun-dns.png&quot; alt=&quot;Porkbun DNS.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;The final DNS setup for this site and Duckquill&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;The next day, I created the &lt;code&gt;pages&lt;&#x2F;code&gt; repository and added a &lt;code&gt;_redirects&lt;&#x2F;code&gt; file to make the old daudix.codeberg.page address redirect to the new one, while keeping the path (so e.g. &lt;code&gt;daudix.codeberg.page&#x2F;ananas-duck&lt;&#x2F;code&gt; becomes &lt;code&gt;daudix.one&#x2F;ananas-duck&lt;&#x2F;code&gt; and not just daudix.one).&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;&#x2F;*  https:&#x2F;&#x2F;daudix.one&#x2F;:splat  302
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Yup, that’s the entire file! It doesn’t work perfectly though; links have a double slash after the domain (&lt;code&gt;daudix.one&#x2F;&#x2F;blog&#x2F;&lt;&#x2F;code&gt;), but it doesn’t seem to affect page loading, so it’s fine, I guess?&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;markdown-alert-edit&quot;&gt;
+	&lt;p&gt;Awesome &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;unnamed.website&quot;&gt;Anthony&lt;&#x2F;a&gt; suggested me to try removing the slash between the domain and &lt;code&gt;:splat&lt;&#x2F;code&gt; (so it becomes &lt;code&gt;https:&#x2F;&#x2F;daudix.one:splat&lt;&#x2F;code&gt;), and it worked!&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote class=&quot;markdown-alert-edit&quot;&gt;
+	&lt;p&gt;Changed HTTP response from 302 “Moved Temporarily” to 301 “Moved Permanently”. The final &lt;code&gt;_redirects&lt;&#x2F;code&gt; is:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;txt&quot; class=&quot;language-txt z-code&quot;&gt;&lt;code class=&quot;language-txt&quot; data-lang=&quot;txt&quot;&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;&#x2F;* https:&#x2F;&#x2F;daudix.one:splat 301
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;And that’s about it! I’m super happy to be a real internet citizen and, in the long run, to be able to move the site between different hosting services without constantly changing links everywhere.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Rewriting My Neocities Website Was Fun!</title>
+          <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/rewriting-neocities-website/</link>
+          <guid>https://widowmaker2025.github.io/blog/rewriting-neocities-website/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/rewriting-neocities-website/">&lt;blockquote&gt;
+&lt;p&gt;This is my first &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;100daystooffload.com&quot;&gt;#100DaysToOffload&lt;&#x2F;a&gt; post; what this means is that I’ll post more and about more diverse stuff. My drafts folder are nearly exploding so it’s about time! A dedicated post about this will be published soon (hopefully &lt;em&gt;nervous giggling&lt;&#x2F;em&gt;).&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote class=&quot;markdown-alert-edit&quot;&gt;
+	&lt;p&gt;It’s been &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;100-days-to-offload&#x2F;&quot;&gt;published&lt;&#x2F;a&gt; (4 days later and not in half a year!).&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote class=&quot;markdown-alert-edit&quot;&gt;
+	&lt;p&gt;This post has been &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;zine.exozy.me&#x2F;posts&#x2F;2024&#x2F;june-2024&#x2F;#website-rewriting-adventures&quot;&gt;featured in exozyine&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;As you might know, &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;&quot;&gt;almost a year ago&lt;&#x2F;a&gt; I got a website on &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;neocities.org&quot;&gt;Neocities&lt;&#x2F;a&gt;: the modern-age &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;GeoCities&quot;&gt;Geocities&lt;&#x2F;a&gt; with not so modern personal websites. I always liked the idea of having website there, but never actually got my hands on it… until now, woo-hoo!&lt;&#x2F;p&gt;
+&lt;p&gt;On the 31st of May I started rewriting it. 4 days later, it seems to be better than what it was in every aspect, so I decided to write this post sharing some insights on how it was done ^_^&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;website-before.png&quot; alt=&quot;Website before.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;The pre-rewrite state; boring and sad&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;All started by copy-pasting &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;goblin-heart.net&#x2F;sadgrl&#x2F;&quot;&gt;sadgrl&lt;&#x2F;a&gt;’s &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codepen.io&#x2F;sadness97&#x2F;pen&#x2F;mdXjExq&quot;&gt;Simple Skinny 00s&lt;&#x2F;a&gt; layout, since I &lt;em&gt;suck&lt;&#x2F;em&gt; at this. The layout seemed perfect so I started tweaking it. After stealing the button shading styles from DeviantArt and getting this nice background from the same sadgrl’s website, I had this:&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;first-steps.png&quot; alt=&quot;First steps.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;First steps; empty and sad&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Fast-forward a few hours, I had some very basic thingy going!&lt;&#x2F;p&gt;
+&lt;p&gt;The icons are from &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Tango_Desktop_Project&quot;&gt;Tango&lt;&#x2F;a&gt;, an icon theme that had it’s last release 15 years ago, back in 2009. Project’s website is down, but download link still works somehow: &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;tango.freedesktop.org&#x2F;releases&#x2F;tango-icon-theme-0.8.90.tar.bz2&quot;&gt;http:&#x2F;&#x2F;tango.freedesktop.org&#x2F;releases&#x2F;tango-icon-theme-0.8.90.tar.bz2&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;video alt=&quot;First demo.&quot; controls src=&quot;first-demo.webm&quot;&gt;&lt;&#x2F;video&gt;
+&lt;figcaption&gt;First demo; navbar got icons and footer was added&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;See that footer? yes, it uses a deprecated marquee HTML element, it’s just too good to &lt;em&gt;not&lt;&#x2F;em&gt; be used. I even &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;vmst.io&#x2F;@daudix&#x2F;112532737670738850&quot;&gt;posted about it&lt;&#x2F;a&gt; on Mastodon.&lt;&#x2F;p&gt;
+&lt;iframe
+	class=&quot;mastodon-embed&quot;
+	src=&quot;https:&#x2F;&#x2F;vmst.io&#x2F;@daudix&#x2F;112532737670738850&#x2F;embed&quot;&gt;
+&lt;&#x2F;iframe&gt;
+&lt;p&gt;At this point it was 4:00 AM and I had to go sleep 0_0&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;chat-forces-me-to-sleep.png&quot; alt=&quot;Chat forces me to sleep.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Group chat forces me to go sleep&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Yeah, I enjoyed the rewrite a bit too much.&lt;&#x2F;p&gt;
+&lt;p&gt;Aaanyway, the next day I added the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.cbox.ws&quot;&gt;cbox&lt;&#x2F;a&gt; chat, polished the footer, and &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;vmst.io&#x2F;@daudix&#x2F;112533590357822496&quot;&gt;teased it&lt;&#x2F;a&gt; to my Mastodon followers.&lt;&#x2F;p&gt;
+&lt;iframe
+	class=&quot;mastodon-embed&quot;
+	src=&quot;https:&#x2F;&#x2F;vmst.io&#x2F;@daudix&#x2F;112533590357822496&#x2F;embed&quot;&gt;
+&lt;&#x2F;iframe&gt;
+&lt;p&gt;About chat box: cbox doesn’t allow adding custom CSS in the free plan, so I couldn’t add the text shadow for the carved text effect, what I did is applied a &lt;code&gt;drop-shadow()&lt;&#x2F;code&gt; filter to the whole &lt;code&gt;&amp;lt;iframe&amp;gt;&lt;&#x2F;code&gt; which did the job.&lt;&#x2F;p&gt;
+&lt;p&gt;Then I added a fake music player to the top-right corner (which was an absolute pain to create, I could’ve used CSS grid to avoid all the alignment issues, but it’s just confusing so I settled on this hacky unresponsive mess), further polished the design, fixed the mobile version, removed the ability to move and resize the chat box (it was buggy and quite useless), and drawn a favicon and a bookmark inspired by one on the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20131126002716&#x2F;http:&#x2F;&#x2F;www.deviantart.com&#x2F;&quot;&gt;old DeviantArt&lt;&#x2F;a&gt;. In fact, a lot of things were inspired by DeviantArt of 2010’s&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;fake-player.png&quot; alt=&quot;Fake player.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Fake music player with some brony music&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Mobile&lt;&#x2F;th&gt;&lt;th&gt;Tablet&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;website-on-mobile.png&quot; alt=&quot;Website on mobile.&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;website-on-tablet.png&quot; alt=&quot;Website on tablet.&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;blockquote class=&quot;markdown-alert-fact&quot;&gt;
+	&lt;p&gt;The music player initially displayed &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@princewhateverer&quot;&gt;PrinceWhateverer&lt;&#x2F;a&gt;’s &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=r0P67hLrFHI&quot;&gt;Miscommunication&lt;&#x2F;a&gt; as it’s very relatable, but since I aimed for the 2010’s vibe, I decided to change it to &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@WoodenToaster&quot;&gt;WoodenToaster&lt;&#x2F;a&gt;’s &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=YRx_iXgLAyw&quot;&gt;Rainbow Factory&lt;&#x2F;a&gt; since it was released in 2011 and were quite popular back then.&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;DeviantArt&lt;&#x2F;th&gt;&lt;th&gt;Mine&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;bookmark-deviantart.png&quot; alt=&quot;Bookmark deviantart.&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;bookmark-mine.png&quot; alt=&quot;Bookmark mine.&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;blockquote class=&quot;markdown-alert-fact&quot;&gt;
+	&lt;p&gt;Initially the bookmark said “Work In Process”, but I realised that it won’t exit this state anytime soon, so it were changed to “Forever WIP”&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;And that’s about it! there’s one issue that bothers me, the footer; it’s absolute positioned relatively to the “paper” and it overlays on top of the scrollbar, which is meh.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;broken-scrollbar.png&quot; alt=&quot;Broken scrollbar.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Footer&#x27;s opacity is changed for demo purposes&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;One more thing I want to mention is &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;neocities.org&#x2F;cli&quot;&gt;Neocities CLI&lt;&#x2F;a&gt;. If you have ever used Neocities you know the pain of upload files to it via the web interface, it does provide &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;neocities.org&#x2F;site_files&#x2F;mount_info&quot;&gt;WebDAV mount&lt;&#x2F;a&gt; for supporters, BUT there’s another way, the official CLI tool!&lt;&#x2F;p&gt;
+&lt;p&gt;It allows pushing local files or whole directories directly to your Neocities website, it’s distributed as a Ruby gem but it works just fine.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Seriously, this thing saved my nerves.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;neocities-cli-help.png&quot; alt=&quot;Neocities CLI help.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Help page; love the humor&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;neocities-cli-pushing.png&quot; alt=&quot;Neocities CLI pushing.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Pusing local directory to Neocities with deletion of files not present locally&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Thanks for reading! Visit the website &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;daudix.neocities.org&quot;&gt;here&lt;&#x2F;a&gt; and feel free to drop something in the chat box ;)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;website-after.png&quot; alt=&quot;Website after.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Auto and Manual Dark Mode Switching Is a Pain</title>
+          <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/auto-and-manual-dark-themes-are-pain/</link>
+          <guid>https://widowmaker2025.github.io/blog/auto-and-manual-dark-themes-are-pain/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/auto-and-manual-dark-themes-are-pain/">&lt;blockquote class=&quot;markdown-alert-note&quot;&gt;
+&lt;p&gt;&lt;del&gt;This is a post in a new format called “microblog”, not quite a Mastodon post nor a full-blown blog post, you got the idea :)&lt;&#x2F;del&gt;
+Changed my mind, blog (even small) is here, microblog is on Fediverse, no in between.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I was just working on adding a manual dark mode toggle to Duckquill as &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;daudix&#x2F;duckquill&#x2F;issues&#x2F;5&quot;&gt;some people wanted to see it&lt;&#x2F;a&gt;, and it turned out to be a huge pain (who might’ve though), it needs either:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Having two separate stylesheets for dark&#x2F;light&lt;&#x2F;li&gt;
+&lt;li&gt;Having variables duplicated somewhere else&lt;&#x2F;li&gt;
+&lt;li&gt;Letting the JS manage the theme toggling instead of the browser, which of course will break if user has JS disabled.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The cleanest solution I’ve found is adding a checkbox that overrides the color variables to dark when checked, and adding JS that will save its state. This works, even with JS disabled, but it breaks the automatic theme switching based on OS style, ughhh.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Website 2.0</title>
+          <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/website-rewrite-in-zola/</link>
+          <guid>https://widowmaker2025.github.io/blog/website-rewrite-in-zola/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/website-rewrite-in-zola/">&lt;h2 id=&quot;backstory&quot;&gt;Backstory&lt;&#x2F;h2&gt;
+&lt;p&gt;It’s been about 4 months since the last post, all this time I’ve been procrastinating, doing some side projects, learning Blender, and… rewriting my website from scratch!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-rewrite&quot;&gt;The Rewrite&lt;&#x2F;h2&gt;
+&lt;p&gt;The first rewrite attempt happened pretty much right after I published the &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;&quot;&gt;previous devlog&lt;&#x2F;a&gt;, I thought using Hugo was a good idea, but I was horribly wrong. I lost my mind on the third day without making any progress. I asked some people about using Hugo and their reaction was something like “Oh God, use anything but Hugo, you will regret using it”, and it was true.&lt;&#x2F;p&gt;
+&lt;p&gt;I then tried Zola, which at first seemed like a worse Jekyll with some features missing, but after trying it out it was actually Jekyll 2.0.&lt;&#x2F;p&gt;
+&lt;p&gt;B-but why move from Jekyll in the first place?&lt;&#x2F;p&gt;
+&lt;p&gt;Well… there were a few reasons for this, like speed, Ruby dependency hell, broken internal linking and the need for third-party plugins for basic functionality, but the last straw was…&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;jekyll-issues&quot;&gt;Jekyll Issues&lt;&#x2F;h3&gt;
+&lt;p&gt;One of the recent issues with Jekyll was that Dart Sass support didn’t work due to outdated dependencies in the official Jekyll Docker image. On the other hand, Zola is modern, fast, has all the features I need, uses the Dart Sass compiler, has good support for creating and using themes (more on that later), and uses &lt;abbr title=&quot;Rust&quot;&gt;🦀&lt;&#x2F;abbr&gt;, which is the best lang on the planet (&#x2F;s, sort of).&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;new-codebase&quot;&gt;New Codebase&lt;&#x2F;h3&gt;
+&lt;p&gt;The other major change is that the “Home”, “Design Showcase”, and “Info” pages have been moved away from using the separate repo and codebase to being part of the same website; it’s confusing, so here’s a table of how it used to be:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Page&lt;&#x2F;th&gt;&lt;th&gt;Repo&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Home&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;pages&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Info&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;pages&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Works&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;pages&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Blog&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;blog-source&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Now everything is in the &lt;code&gt;website&lt;&#x2F;code&gt; repo, using the same stylesheet and templates:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Page&lt;&#x2F;th&gt;&lt;th&gt;Repo&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Home&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;website&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Info&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;website&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Works&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;website&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Blog&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;website&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h3 id=&quot;look-and-feel&quot;&gt;Look and Feel&lt;&#x2F;h3&gt;
+&lt;p&gt;Almost every single style and template has been reworked, resulting in a much nicer look and feel, some that I can remember:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brand new navigation bar!&lt;&#x2F;li&gt;
+&lt;li&gt;Primary color is now used to tint the background (bye boring gray!).&lt;&#x2F;li&gt;
+&lt;li&gt;CRT style is now used for ASCII, replacing the old “opaque to transparent gradient”.&lt;&#x2F;li&gt;
+&lt;li&gt;Header styles have been reworked; they’re now thin, italic, and use JetBrains Mono with an alternative character set (&lt;code&gt;ss02&lt;&#x2F;code&gt;).&lt;&#x2F;li&gt;
+&lt;li&gt;Quotations and horizontal rules now have slightly rounded corners.&lt;&#x2F;li&gt;
+&lt;li&gt;Code blocks now use Solarized syntax highlighting theme instead of GitHub’s; it changes from light to dark variant depending on current color scheme.&lt;&#x2F;li&gt;
+&lt;li&gt;Source Code Pro font is now used for code blocks instead of system one.&lt;&#x2F;li&gt;
+&lt;li&gt;New, animated 404 image.&lt;&#x2F;li&gt;
+&lt;li&gt;Tags are now displayed next to the date, both in the post list and in the post itself. Check out this neat effect on hover!&lt;&#x2F;li&gt;
+&lt;li&gt;Posts can now be filtered by a tag, e.g you can filter only posts containing the &lt;code&gt;Devlog&lt;&#x2F;code&gt; tag.&lt;&#x2F;li&gt;
+&lt;li&gt;New post navigation (previous&#x2F;next post links at the end of the post).&lt;&#x2F;li&gt;
+&lt;li&gt;And more! (&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;daudix&#x2F;pages&#x2F;commit&#x2F;0323f9658345ec5f254e24b4385c31ebe9a69f15&quot;&gt;initial migration commit&lt;&#x2F;a&gt;, ~2500 changes!).&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;reborn-duckquill&quot;&gt;Reborn Duckquill&lt;&#x2F;h3&gt;
+&lt;p&gt;Now to the Duckquill, it’s been transformed from a Jekyll template to a proper Zola theme, the good thing about themes is that you can easily update and non-destructively tweak them by overriding some configuration variables and files.&lt;&#x2F;p&gt;
+&lt;p&gt;Duckquill powers this website, but can be used by anyone, although I use some additional styles unique to this website.&lt;&#x2F;p&gt;
+&lt;p&gt;It’s listed on the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;themes&#x2F;duckquill&#x2F;&quot;&gt;Zola themes page&lt;&#x2F;a&gt;, of which I’m quite proud of ^^&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;It’s been an interesting journey for sure; trying to use Hugo, losing my mind, regretting life choices, learning new SSG, burning out, coming back, learning Sass, HTML, and Tera (a bit like Liquid), procrastinating, coming back, rewriting half of the styles, and finally submitting the theme to the Zola themes website (not exactly in that order). All this, in my opinion, was worth it.&lt;&#x2F;p&gt;
+&lt;p&gt;My plan now is to write a few posts and focus less on the website, since it’s a wormhole I can’t leave.&lt;&#x2F;p&gt;
+&lt;p&gt;Shout out to &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;tesk.page&quot;&gt;Hari Rana&lt;&#x2F;a&gt; for helping to improve the accessibility of the site by pointing out contrast issues, as well as some style change suggestions!&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Site and Blog Devlog</title>
+          <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/site-and-blog-devlog/</link>
+          <guid>https://widowmaker2025.github.io/blog/site-and-blog-devlog/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/site-and-blog-devlog/">&lt;p&gt;This blog was born two month ago, and since the first revision a lot- no, that’s not enough, &lt;strong&gt;hella lot&lt;&#x2F;strong&gt; of stuff has been changed, tweaked and redone from scratch, so here I will list them and my plans for the future of this blog.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-index&quot;&gt;«The Index»&lt;&#x2F;h2&gt;
+&lt;p&gt;The Index is not only homepage, it’s also a showcase, info and screensaver pages, they all live in the same &lt;code&gt;pages&lt;&#x2F;code&gt; repository, while blog is a completely separate thing with its own repository.&lt;&#x2F;p&gt;
+&lt;p&gt;One important change have happened to the Index, now all its pages use the same base, &lt;code&gt;style.css&lt;&#x2F;code&gt;, and only page-specific tweaks are specified in page &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;&#x2F;abbr&gt;, e.g showcase page style has &lt;code&gt;@import url(&quot;style.css&quot;);&lt;&#x2F;code&gt; in the beginning instead of exact copy of &lt;code&gt;index.css&lt;&#x2F;code&gt;, not only this makes the file size smaller, but also makes the tweaking process a breeze, since stuff can be changed in one place and be applied to every page.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;styles-import.png&quot; alt=&quot;styles import&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;VSCodium screenshot showing off import of base style and some «body» styles&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h3 id=&quot;home&quot;&gt;Home&lt;&#x2F;h3&gt;
+&lt;p&gt;Homepage is a very important page, this page links to all other pages, it gives some basic info about me and some contact links. It didn’t change a lot but there are some work been done.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proper dark mode have been implemented (well, it were already there but I replaced it with filter hack, more on it in blog section. Now it’s enabled back and all the custom stuff have been fixed to support it).&lt;&#x2F;li&gt;
+&lt;li&gt;Background color are a bit different (taken from Libadwaita).&lt;&#x2F;li&gt;
+&lt;li&gt;Added shadows to all cards to give them some depth.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;blog-card.png&quot; alt=&quot;blog card&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Blog link card with newely added shadow&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Added hover effect for cards that act like a button (blog and showcase).&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;video alt=&quot;Blog card hover&quot; controls src=&quot;blog-card-hover.webm&quot;&gt;&lt;&#x2F;video&gt;
+&lt;figcaption&gt;Blog link card being hovered with cursor&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Active state for cards (when you click&#x2F;press on card) have been removed since it looked weird&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;And more, these are that I could remember.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;showcase&quot;&gt;Showcase&lt;&#x2F;h3&gt;
+&lt;p&gt;Showcase have been updated to include more icons, info overlay closing animation have been fixed (previously it just disappeared without any animation) and assets were optimized.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;video alt=&quot;Works info overlay&quot; controls src=&quot;works-info-overlay.webm&quot;&gt;&lt;&#x2F;video&gt;
+&lt;figcaption&gt;Demo of opening&#x2F;closing info overlay&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h3 id=&quot;info&quot;&gt;Info&lt;&#x2F;h3&gt;
+&lt;p&gt;Info page were completely redesigned, inspired by the design of &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;felipekinoshita.com&quot;&gt;Felipe&lt;br &#x2F;&gt;
+Kinoshita’s&lt;&#x2F;a&gt; site. It is more similar to the blog in terms of typography, has nice animated stripes background and a lot of info about me. Compared to the previous version it has way less links - only ones that I actually use.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;video alt=&quot;Info page&quot; controls src=&quot;info-page.webm&quot;&gt;&lt;&#x2F;video&gt;
+&lt;figcaption&gt;Me scrolling through the whole page&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h3 id=&quot;screensaver&quot;&gt;Screensaver&lt;&#x2F;h3&gt;
+&lt;p&gt;Screensaver is a brand-new page, the name is self-explanatory, it’s just a pretty screensaver with colorful circles floating around, it is made around &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codepen.io&#x2F;alvarotrigo&#x2F;pen&#x2F;qBMMyxz&quot;&gt;this codepen&lt;&#x2F;a&gt; by &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codepen.io&#x2F;alvarotrigo&quot;&gt;Álvaro&lt;&#x2F;a&gt;, from interesting it has «Enter Fulllscreen» button.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;screensaver.png&quot; alt=&quot;screensaver&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Pretty colorful circles blending with each other&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h2 id=&quot;the-blog&quot;&gt;«The Blog»&lt;&#x2F;h2&gt;
+&lt;p&gt;The blog have seen the most of the changes, it all were flipped upside down to be prettier, and as fast as before.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proper dark mode have been implemented from scratch, previously &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;&#x2F;abbr&gt; invert filter with hue rotation were used, it worked but had too much issues: images became unsaturated, emojis creepy, shadows glowing and etc.&lt;&#x2F;li&gt;
+&lt;li&gt;Navigation bar have been added, it has pretty glassy look and shadow. Inspired by the navigation bar of &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;micahilbery.com&quot;&gt;Micah Ilbery’s&lt;&#x2F;a&gt; site. I really like how it looks :3&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;blurred-nav.png&quot; alt=&quot;blurred nav&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Navigation bar with content behind it being blurred&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Added &lt;abbr title=&quot;American Standard Code for Information Interchange&quot;&gt;ASCII&lt;&#x2F;abbr&gt; style, now instead of boring code block it uses pretty gradient fill and has this neon glow on hover.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;ascii-art.png&quot; alt=&quot;ascii art&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Regular state, it&#x27;s filled with gradient going from bottom to top, with the bottom being black and top being transparent&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;ascii-art-hover.png&quot; alt=&quot;ascii art hover&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Hovered state, it becomes fully black and gains purple-blue glow&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Images now scale up on hover and have round corners.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;video alt=&quot;image hover&quot; controls src=&quot;image-hover.webm&quot;&gt;&lt;&#x2F;video&gt;
+&lt;figcaption&gt;Image zooming in on hover, with it loosing rounded corners&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Code blocks now have some filters applied in dark mode for better visibility, the code blocks themselves are now more round and have shadows.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;code-block.png&quot; alt=&quot;code block&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Code block in light mode&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;code-block-dark.png&quot; alt=&quot;code block dark&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;...And in dark&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Some colors have been changed, all in all should be more pleasant to the eye.&lt;&#x2F;li&gt;
+&lt;li&gt;Everything now respects global variables, so e.g you can change accent color, roundness, shadows and maximum content width without going through the whole 1200+ &lt;abbr title=&quot;lines of code&quot;&gt;LOC&lt;&#x2F;abbr&gt; &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;&#x2F;abbr&gt;, this is made not only to keep myself sane but also for &lt;em&gt;you&lt;&#x2F;em&gt; to make it easier to build upon ;)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;video alt=&quot;color variables&quot; controls src=&quot;color-variables.webm&quot;&gt;&lt;&#x2F;video&gt;
+&lt;figcaption&gt;Me changing 2 color variables and site respecting this&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;The structure have been changed, now uses recommended Jekyll structure for posts.&lt;&#x2F;li&gt;
+&lt;li&gt;Posts now have tags, and tags have its own page.&lt;&#x2F;li&gt;
+&lt;li&gt;Posts now have its own page.&lt;&#x2F;li&gt;
+&lt;li&gt;Posts list on index page now generates automatically on build, this allowed to display tags and publication date.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;posts-list.png&quot; alt=&quot;posts list&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Automatically generated list of posts on index page&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Table of contents are now generated on build, now I don’t have to create it for every page manually.&lt;&#x2F;li&gt;
+&lt;li&gt;Hovering over &lt;code&gt;© Daudix&#x27;s Blog, 2023&lt;&#x2F;code&gt; in footer now displays last built date.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;copyright-hover.png&quot; alt=&quot;copyright hover&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;You guess it, last built date is displayed on hover&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Atom Feed is here!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;newsblur-feed.png&quot; alt=&quot;newsblur feed&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Screenshot of NewsBlur with this blog&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Added Johnvertisements.&lt;&#x2F;li&gt;
+&lt;li&gt;Probably most exiting addition, Mastodon (and any other ActivityPub&#x2F;​Fediverse account) powered comments! you can &lt;em&gt;right now&lt;&#x2F;em&gt; scroll down and comment! all thanks goes to Cassidy James for &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;cassidyjames.com&#x2F;blog&#x2F;fediverse-blog-comments-mastodon&quot;&gt;Mastodon-powered Blog Comments&lt;&#x2F;a&gt; ❤️&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;mastodon-comment.png&quot; alt=&quot;mastodon comment&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Mastodon post about my migration to Codeberg blog post being used as a comment&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h2 id=&quot;one-more-thingtm&quot;&gt;One More Thing™&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;button class=&quot;audio&quot; data-audio=&quot;drum-roll.mp3&quot;&gt;Drum Roll&lt;i class=&quot;icon speaker-high&quot; style=&quot;--icon: url(&#x27;data:image&#x2F;svg+xml,%3Csvg%20xmlns%3D%22http%3A&amp;#x2F;&amp;#x2F;www.w3.org&amp;#x2F;2000&amp;#x2F;svg%22%20viewBox%3D%220%200%20256%20256%22%20fill%3D%22currentColor%22%3E%3Cpath%20d%3D%22M157.27%2C21.22a12%2C12%2C0%2C0%2C0-12.64%2C1.31L75.88%2C76H32A20%2C20%2C0%2C0%2C0%2C12%2C96v64a20%2C20%2C0%2C0%2C0%2C20%2C20H75.88l68.75%2C53.47A12%2C12%2C0%2C0%2C0%2C164%2C224V32A12%2C12%2C0%2C0%2C0%2C157.27%2C21.22ZM36%2C100H68v56H36Zm104%2C99.46L92%2C162.13V93.87l48-37.33ZM212%2C128a44%2C44%2C0%2C0%2C1-11%2C29.11%2C12%2C12%2C0%2C1%2C1-18-15.88%2C20%2C20%2C0%2C0%2C0%2C0-26.43%2C12%2C12%2C0%2C0%2C1%2C18-15.86A43.94%2C43.94%2C0%2C0%2C1%2C212%2C128Zm40%2C0a83.87%2C83.87%2C0%2C0%2C1-21.39%2C56%2C12%2C12%2C0%2C0%2C1-17.89-16%2C60%2C60%2C0%2C0%2C0%2C0-80%2C12%2C12%2C0%2C1%2C1%2C17.88-16A83.87%2C83.87%2C0%2C0%2C1%2C252%2C128Z%22&amp;#x2F;%3E%3C&amp;#x2F;svg%3E&#x27;);&quot;&gt;&lt;&#x2F;i&gt;&lt;&#x2F;button&gt;
+ I have a new site at Neocities! it will not replace this one, it’s just a silly playground that has this old look. You know… Geocities and stuff.&lt;&#x2F;p&gt;
+&lt;p&gt;It’s empty &lt;abbr title=&quot;at the moment&quot;&gt;ATM&lt;&#x2F;abbr&gt;, but it has &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mstdn.social&#x2F;@Daudix&#x2F;110872543493210479&quot;&gt;AD-HD button&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;daudix.neocities.org&quot;&gt;Visit it here&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;neocities-website.png&quot; alt=&quot;neocities website&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;The Neocities website!&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;h2 id=&quot;the-future&quot;&gt;The Future&lt;&#x2F;h2&gt;
+&lt;p&gt;We’ll see, I plan to publish more posts, at least I have an idea for the next one, I’m thinking about making the whole blog a Jekyll template (Duck Template, DuckQuill), but this will mean that I’ll need to maintain one more site basically, not sure really, I could sync it with this blog once a month so it doesn’t annoy much, IDK, will see.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;Phew, that’s a lot, 2 months of work! truly happy how it all comes up, hope you too, this is most long-lived site thingy yet, I have learned a lot about &lt;abbr title=&quot;Cascading Style Sheets&quot;&gt;CSS&lt;&#x2F;abbr&gt; and &lt;abbr title=&quot;HyperText Markup Language&quot;&gt;HTML&lt;&#x2F;abbr&gt;, and I really like doing this!&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

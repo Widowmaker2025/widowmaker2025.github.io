@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>黑百合 | Home - Teardown</title>
+    <subtitle>主要关注技术，读书，工具分享等方向.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://widowmaker2025.github.io/tags/teardown/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-28T00:00:00+00:00</updated>
+    <id>https://widowmaker2025.github.io/tags/teardown/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Teardown - The Criminal Simulator</title>
+        <published>2024-09-26T00:00:00+00:00</published>
+        <updated>2024-09-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              widowmaker2025
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/blog/playing-teardown/"/>
+        <id>https://widowmaker2025.github.io/blog/playing-teardown/</id>
+        
+        <content type="html" xml:base="https://widowmaker2025.github.io/blog/playing-teardown/">&lt;p&gt;TL;DR: Fun game.&lt;&#x2F;p&gt;
+&lt;p&gt;As you may know, I occasionally play games, which is shocking in itself, but even more shocking is that I’ve never blogged about it, so let’s change that! (well, I just don’t know what to blog about xD)&lt;&#x2F;p&gt;
+&lt;p&gt;Teardown is a game released back in 2022, but I have played the early access version released in 2020 on YouTube (as in, I watched let’s plays). Recently I decided to replay it, and it’s been pretty fun, the process of carefully coming up with an optimal route and then executing it in under 60 seconds is pretty entertaining. My little brother seems to enjoy watching all this happen as well.&lt;&#x2F;p&gt;
+&lt;p&gt;In terms of visuals, it’s pretty fresh, using voxel graphics à la &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ephtracy.github.io&quot;&gt;MagicaVoxel&lt;&#x2F;a&gt; along with semi-realistic physics that work very well together. It’s fun to just walk around and smash stuff with a sledge, toss chairs around, break glass, demolish buildings using propane tanks, and such.&lt;&#x2F;p&gt;
+&lt;p&gt;Due to hardware limitations I had to change the rendering quality all the way down to 50%, but even then it looks awesome, here’s some shots from built-in photo mode.&lt;&#x2F;p&gt;
+&lt;div class=&quot;media-grid-markdown&quot;&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;files.catbox.moe&#x2F;u4p65h.png&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-teardown-1.png&quot; alt=&quot;An abandoned building with exposed brick walls, a wooden staircase, and a metal pillar. The interior is dimly lit with an artificial lighting.&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;files.catbox.moe&#x2F;j8plvm.png&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-teardown-2.png&quot; alt=&quot;Sunset over an ocean. A wooden dock with several boats tied to it is visible in the foreground. The sky is filled clouds.&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;files.catbox.moe&#x2F;gtckqi.png&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-teardown-3.png&quot; alt=&quot;A small, wooden building with a door and windows on a wooden dock. A lamppost stands nearby, illuminating a table and chairs on the dock.&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;files.catbox.moe&#x2F;btqp4t.png&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-teardown-4.png&quot; alt=&quot;A dimly lit dining room with a long wooden table and several chairs.&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;files.catbox.moe&#x2F;ph30ik.png&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-teardown-5.png&quot; alt=&quot;A view from a window showing a winding road leading down a hill towards the ocean.&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;files.catbox.moe&#x2F;aayzmp.png&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-teardown-6.png&quot; alt=&quot;A large, modern building with a glass wall. Features some racing-related elements such as poster titled #1.&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;files.catbox.moe&#x2F;jbupy7.png&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-teardown-7.png&quot; alt=&quot;A brick building with a large explosion happening on the facade. The building’s sign reads “Löckelle Teardown Services”.&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;files.catbox.moe&#x2F;fnv84q.png&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-teardown-8.png&quot; alt=&quot;A room with brick walls filled with smoke and flames. There are a few objects on fire.&quot; &#x2F;&gt;&lt;&#x2F;a&gt;
+&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;files.catbox.moe&#x2F;oftls3.png&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-teardown-9.png&quot; alt=&quot;A large, abandoned building with exposed brick walls and a wooden ceiling. The building is engulfed in flames with smoke billowing everywhere.&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;p&gt;The sound design in this game is top notch, from the braking sounds of the various cars to the soundtrack, let alone the track that plays during the escape.&lt;&#x2F;p&gt;
+&lt;p&gt;The story side of the game is pretty fun as well. We are playing as an “owner of a financially stricken demolition company, who is caught undertaking a questionable job and becomes entangled between helping police investigations and taking on further dubious assignments” (thanks Wikipedia). What I find funny is how rich guys contact the player and ask to steal some other rich guy’s cars or whatever, only for that rich guy to contact us and say that “someone” stole his cars and ask us to take revenge by stealing his paintings or whatever. Working for both sides at its best :P&lt;&#x2F;p&gt;
+&lt;p&gt;I’m currently on the level “Crook,” which is quite early on, and I think it’s going to take a while to complete it at the current rate; 1 mission per gaming session, which takes 40 mins - 1 hour.&lt;&#x2F;p&gt;
+&lt;p&gt;Another funny thing is that Steam thinks it’s purchased, even though I just added the &lt;em&gt;legally acquired&lt;&#x2F;em&gt; version to the library. It seems that the cloud saves work even.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;playing-teardown&#x2F;screenshot-steam.png&quot; alt=&quot;A screenshot of the Steam game library showing the game “Teardown” selected.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;As this is a Windows-only game, I play it through Proton and it… just works? I simply added it to my games library and ticked the “Force the use of a specific Steam Play compatibility tool” checkbox in its settings, nothing more. In fact, I moved all my games to the Steam library to play them through Proton, as it works without the sheganings Bottles has (Bottles is still a very cool app).&lt;&#x2F;p&gt;
+&lt;p&gt;And that’s about it. See you next time!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
