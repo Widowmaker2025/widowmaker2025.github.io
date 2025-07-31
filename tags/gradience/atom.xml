@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>黑百合 | Home - Gradience</title>
+    <subtitle>主要关注技术，读书，工具分享等方向.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://widowmaker2025.github.io/tags/gradience/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-11-29T00:00:00+00:00</updated>
+    <id>https://widowmaker2025.github.io/tags/gradience/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Gradience Autopsy: Rise and Set</title>
+        <published>2024-07-18T00:00:00+00:00</published>
+        <updated>2024-11-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              widowmaker2025
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/blog/archiving-gradience/"/>
+        <id>https://widowmaker2025.github.io/blog/archiving-gradience/</id>
+        
+        <content type="html" xml:base="https://widowmaker2025.github.io/blog/archiving-gradience/">&lt;p&gt;&lt;small&gt;Photo by &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;unsplash.com&#x2F;@imclyde&quot;&gt;Clyde RS&lt;&#x2F;a&gt; on &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;unsplash.com&#x2F;photos&#x2F;clouds-under-clear-blue-sky-during-daytime-4XbZCfU2Uoo&quot;&gt;Unsplash&lt;&#x2F;a&gt;.&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;backstory&quot;&gt;Backstory&lt;&#x2F;h2&gt;
+&lt;p&gt;Two years ago today, a project called AdwCustomizer emerged; a libadwaita app that allowed users to recolor their libadwaita and GTK3 apps (if the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lassekongo83&#x2F;adw-gtk3&quot;&gt;adw-gtk3&lt;&#x2F;a&gt; theme was present) using an easy-to-use interface.&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;markdown-alert-important&quot;&gt;
+&lt;p&gt;My stance on theming hasn’t changed; I still believe that distributions should &lt;em&gt;not&lt;&#x2F;em&gt; ship theming out of the box. It’s up to the user to decide whether or not they are comfortable with broken applications. See &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;stopthemingmy.app&quot;&gt;“please don’t theme our apps”&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote class=&quot;markdown-alert-note&quot;&gt;
+&lt;p&gt;Personally, I’ve stopped theming my desktop for a while; I’ve been using vanilla GNOME for about a year now, with only a few extensions that add some missing features that I really need, like automatic dark mode at sunset.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I was absolutely thrilled to be one of the first to discover this amazing app! I had been thinking about such an app literally just a few days prior to this. I even posted about this app on &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;gnome&#x2F;comments&#x2F;w2ehe2&#x2F;libadwaita_and_adwgtk3_recoloring_demo_using&#x2F;&quot;&gt;r&#x2F;gnome&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;first-contributions&quot;&gt;First Contributions&lt;&#x2F;h3&gt;
+&lt;p&gt;The same day, I opened an issue regarding the project name and its change, since it didn’t follow the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;developer.gnome.org&#x2F;hig&#x2F;guidelines&#x2F;app-naming.html&quot;&gt;GNOME HIG&lt;&#x2F;a&gt;. &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ArtyIF&quot;&gt;ArtyIF&lt;&#x2F;a&gt;–developer of the project–quickly responded, stating that the suggested “Adwaita Manager” sounded quite good, and very soon, the project was renamed.&lt;&#x2F;p&gt;
+&lt;p&gt;Then I created an issue about the app’s icon and even tried to design something (in retrospect: the icon turned out to be utter shit, just like every other icon at the time), got into a little heated argument with another designer, and even did some UI mockups (which, you guessed it, looked like shit).&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;new-duty&quot;&gt;New Duty&lt;&#x2F;h3&gt;
+&lt;p&gt;Then something unexpected happened: the developer announced that he was looking for a new (co-)maintainer. This was shocking to me because I really liked the project, so I did what any reasonable human being would do: commented that I would like to maintain it, and no, I didn’t say that I’m not a programmer and a joke of a designer…&lt;&#x2F;p&gt;
+&lt;p&gt;To make things worse, I took responsibility into my own hands and… made an announcement on &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;gnome&#x2F;&quot;&gt;r&#x2F;gnome&lt;&#x2F;a&gt; and &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;linux&#x2F;&quot;&gt;r&#x2F;linux&lt;&#x2F;a&gt; that the project was looking for a maintainer. Without asking ArtyIF first. &lt;em&gt;Deep sigh&lt;&#x2F;em&gt; somebody kill me, please.&lt;&#x2F;p&gt;
+&lt;p&gt;No one came to maintain it from the Reddit post, but one guy commented under the initial developer’s announcement on GitHub Discussions and said he would like to maintain it. And so, this guy and I were soon added to the “AdwCustomizer Team” GitHub organization.&lt;&#x2F;p&gt;
+&lt;p&gt;Since then, we continued to work on the project; the new maintainer implemented many of the requested features, such as Material You preset generation and refreshed the UI (following my mockups).&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;rename-in-progress&quot;&gt;Rename in Progress&lt;&#x2F;h3&gt;
+&lt;p&gt;A month later, the app was somewhat feature complete, and with the help of &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lyessaadi&quot;&gt;Lyes&lt;&#x2F;a&gt; we finally managed to upload it to Flathub (we hadn’t done so before because Gradience used newly added liabdwaita message dialog widgets that weren’t available in the stable release), so we did some thinking and decided to post an announcement about it on &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;thisweek.gnome.org&quot;&gt;TWIG&lt;&#x2F;a&gt;. Shortly after the TWIG post, one of the GNOME designers contacted me and asked if the project could use a name that wouldn’t be confused with an official GNOME app.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;archiving-gradience&#x2F;rename-request.png&quot; alt=&quot;Rename request.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Screenshot of the chat with the GNOME designer asking about the renaming&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;In retrospect, this makes perfect sense, but at the time I was… offended? Anyhow, I promptly opened a new discussion on GitHub and we started brainstorming the new name.&lt;&#x2F;p&gt;
+&lt;p&gt;Since I was, um, dumber and didn’t understand English well enough, it was an awkward experience. In the end, we came up with a couple of names, and ArtyIF suggested one more; Gradience. And so, we posted a Reddit poll for people to decide which one we should use. And the people chose… Gradience!&lt;&#x2F;p&gt;
+&lt;p&gt;Again, being a dumb fuck, I really disliked the name, but people chose it, so there wasn’t much I could do about it. Eventually I realized it’s freaking perfect. Good thing it wasn’t changed.&lt;&#x2F;p&gt;
+&lt;p&gt;Promptly, we renamed all instances of Adwaita Manager in the project, and then moved the GitHub organization to the new name.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;growing-responsibilities&quot;&gt;Growing Responsibilities&lt;&#x2F;h3&gt;
+&lt;p&gt;Time passed, new features were added, I designed more UI mockups, icons, translated the project into Russian, spent a lot of time in the projects chat, and overall got deeply involved in the project. Gradually more power and responsibility was put on my shoulders, but I didn’t complain, since it’s cool to “maintain” a big project, r-right?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-beginning-of-an-end&quot;&gt;The Beginning of an End&lt;&#x2F;h2&gt;
+&lt;p&gt;New versions of GNOME came out, more and more presets (just a fancy name for Gradience color themes) were created, the app got more polished and powerful, someone contributed some legitimately great stuff, like GNOME Shell theming and backend rework, but otherwise, there wasn’t much contributions from the outside. Then all of a sudden… the maintainer disappeared.&lt;&#x2F;p&gt;
+&lt;p&gt;Well, it didn’t happen suddenly, but gradually.&lt;&#x2F;p&gt;
+&lt;p&gt;Some time later, the maintainer disappeared completely, and I was left alone to triage the issue tracker and answer all the questions in the support forum (there were lots, lots of them). I began to dislike all of this, and eventually burned out completely and simply muted all Gradience chats. I’d still come over and answer a question or two, but I really didn’t want to spend my time there.&lt;&#x2F;p&gt;
+&lt;p&gt;At the end of February of this year, the maintainer came back from his long hiatus and said that he would try to see what had happened in the last few months and build a roadmap for the next few months. As well as focus on the backend by fixing all the major performance issues, bugs and implementing what was discussed a few months ago and, and then take care of the UI.&lt;&#x2F;p&gt;
+&lt;p&gt;Five months later and no work has been done whatsoever.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-end&quot;&gt;The End&lt;&#x2F;h2&gt;
+&lt;p&gt;I understood that this couldn’t go on forever. People &lt;em&gt;will&lt;&#x2F;em&gt; keep asking the same questions, they &lt;em&gt;will&lt;&#x2F;em&gt; keep asking for the new release date, and I &lt;em&gt;will&lt;&#x2F;em&gt; keep having to answer them. To be fair, some people did the work for me and answered those questions, so it wasn’t quite as bad (you know who you are, thanks!).&lt;&#x2F;p&gt;
+&lt;p&gt;The app was last updated over a year ago, and the new release wasn’t ready, we just did a beta release to test the WIP GNOME Shell theming, so it was left at this &lt;code&gt;0.8.0-beta1&lt;&#x2F;code&gt; position.&lt;&#x2F;p&gt;
+&lt;p&gt;Last month, I scraped up all the courage and the remaining social battery and did what I had been planning to do for a while; announced that the project was looking for a new maintainer. Again. Just like the first time.&lt;&#x2F;p&gt;
+&lt;p&gt;But just like the first time, no one responded in two weeks, so I did what I had been thinking about and what one Reddit comment suggested: archived the project, the entire GitHub organization.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;archiving-gradience&#x2F;archived-organization.png&quot; alt=&quot;Archived Gradience organization.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;farewell&quot;&gt;Farewell&lt;&#x2F;h2&gt;
+&lt;p&gt;What does this mean? In short, there will be no further updates, and I will have a solid answer to all the questions that will be asked in the support forums.&lt;&#x2F;p&gt;
+&lt;p&gt;I’m glad that I finally did it and that this weight has been lifted from my shoulders (to some extent), but I also feel kind of bad and sad about it. After all, this project has indirectly allowed me to meet a lot of wonderful people, communities, and overall become a better me. Gradience and its community will forever be in my heart, thank you all for these wonderful two years ^^&lt;&#x2F;p&gt;
+&lt;p&gt;Special thanks to Gradience’s off-topic “Water Cooler” room; it’s such a nice place to chat with cool people about whatever you want (it’s still there, by the way &lt;em&gt;wink-wink, nudge-nudge&lt;&#x2F;em&gt;).&lt;&#x2F;p&gt;
+&lt;p&gt;This is the end. For now. Goodbye, Gradience.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;archiving-gradience&#x2F;saluting.png&quot; alt=&quot;Saluting.&quot; &#x2F;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;archiving-gradience&#x2F;shell-preview.png&quot; alt=&quot;Shell preview.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Ha, no.&lt;&#x2F;p&gt;
+&lt;p&gt;I thought so at the moment of writing the early draft. There’s some promising work being done by one of my friends, it’s still in the early stages, but I’m looking forward to it.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;What is it? You gave us the most ambiguous description one could possibly come up with!&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Okay okay! It’s a rewrite of Gradience, you ready? in Rust. Called Chameleon. You satisfied?&lt;&#x2F;p&gt;
+&lt;p&gt;There’s some other things happening behind the scenes, but I can’t say much just yet :P&lt;&#x2F;p&gt;
+&lt;p&gt;And now that we are on a positive note, I can say: see you next time!&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

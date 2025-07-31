@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>黑百合 | Home - Zed</title>
+      <link>https://widowmaker2025.github.io/</link>
+      <description>主要关注技术，读书，工具分享等方向.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://widowmaker2025.github.io/tags/zed/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Giving Zed Code Editor a Shot</title>
+          <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/giving-zed-a-shot/</link>
+          <guid>https://widowmaker2025.github.io/blog/giving-zed-a-shot/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/giving-zed-a-shot/">&lt;p&gt;Guh? What’s Zed?&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;zed.dev&quot;&gt;Zed&lt;&#x2F;a&gt; is a new and shiny free and open source code editor written in Rust, which automatically means he’s a fast boi. I saw &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.gxbs.me&quot;&gt;Gabs&lt;&#x2F;a&gt; &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.gxbs.me&#x2F;blog&#x2F;posts&#x2F;zed---my-new-code-editor&quot;&gt;using it&lt;&#x2F;a&gt; and &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.gxbs.me&#x2F;blog&#x2F;posts&#x2F;zed---after-one-month&quot;&gt;really liking it&lt;&#x2F;a&gt;, so I thought “after all…why not? why shouldn’t I try it?”&lt;&#x2F;p&gt;
+&lt;p&gt;In fact, I “tried” it once after Gabs’ first post was published, but I didn’t bother to understand and configure it, so I ended up not using it (classic me huh).&lt;&#x2F;p&gt;
+&lt;p&gt;This time, however, I decided that it would be fair to actually try it before judging it. I already had it installed, so I went straight to the configuration. Turns out not much needed to be changed, in fact this is my entire &lt;code&gt;settings.json&lt;&#x2F;code&gt;:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;json&quot; class=&quot;language-json z-code&quot;&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span class=&quot;z-source z-json&quot;&gt;&lt;span class=&quot;z-meta z-mapping z-json&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-mapping z-begin z-json&quot;&gt;{&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-json&quot;&gt;&lt;span class=&quot;z-meta z-mapping z-json&quot;&gt;  &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-mapping z-key z-json&quot;&gt;&lt;span class=&quot;z-string z-quoted z-double z-json&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-json&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;theme&lt;span class=&quot;z-punctuation z-definition z-string z-end z-json&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-mapping z-json&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-mapping z-key-value z-json&quot;&gt;:&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-mapping z-value z-json&quot;&gt;&lt;span class=&quot;z-string z-quoted z-double z-json&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-json&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;Zedokai&lt;span class=&quot;z-punctuation z-definition z-string z-end z-json&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-mapping z-pair z-json&quot;&gt;,&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-json&quot;&gt;&lt;span class=&quot;z-meta z-mapping z-value z-json&quot;&gt;  &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-mapping z-key z-json&quot;&gt;&lt;span class=&quot;z-string z-quoted z-double z-json&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-json&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;hard_tabs&lt;span class=&quot;z-punctuation z-definition z-string z-end z-json&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-mapping z-value z-json&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-mapping z-key-value z-json&quot;&gt;:&lt;&#x2F;span&gt; &lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-mapping z-value z-json&quot;&gt;&lt;span class=&quot;z-constant z-language z-json&quot;&gt;true&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-json&quot;&gt;&lt;span class=&quot;z-meta z-mapping z-value z-json&quot;&gt;&lt;span class=&quot;z-punctuation z-section z-mapping z-end z-json&quot;&gt;}&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;em&gt;Yes, I prefer real tabs to spaces. Go cancel me.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;So why didn’t I use it the first time? I don’t know, maybe the lack of exact extension alternatives to VSCodium put me off.&lt;&#x2F;p&gt;
+&lt;p&gt;So far I like it, it’s indeed super fast and minimalistic (in a good way).&lt;&#x2F;p&gt;
+&lt;p&gt;I do like VSCodium’s font and rendering a bit more, but that’s probably because I just got used to it. No wonder, I have been using VSCodium continuously for over a year.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;giving-zed-a-shot&#x2F;vscodium.png#transparent&quot; alt=&quot;Screenshot of VSCodium.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;My VSCodium setup. Cozy and minimal.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;The built-in formatter is surprisingly good, better than the one in VSCodium; it wraps long CSS properties perfectly, formats automatically on save (VSCodium can do this too, but not as smoothly), and supports modern selectors like &lt;code&gt;.element-1 + .element-2&lt;&#x2F;code&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;What I also like, surprisingly, is the lack of one particular feature: Git integration. In VSCodium it was just annoying and not useful, since it just didn’t work (GPG commit signing, SSH keys, and such) because of Flatpak, and I use lazygit for Git anyway, so I don’t need it at all.&lt;&#x2F;p&gt;
+&lt;p&gt;There’s even a Monokai Pro theme called Zedokai. It took me a while to find it. It really feels like home, such a great theme.&lt;&#x2F;p&gt;
+&lt;p&gt;I don’t exactly like the AI crap integration, but it’s optional, so I don’t mind.&lt;&#x2F;p&gt;
+&lt;p&gt;Will see how it goes, but so far I like it.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;giving-zed-a-shot&#x2F;zed.png#transparent&quot; alt=&quot;Screenshot of Zed.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;My Zed setup. Quite similar to VSCodium.&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+</description>
+      </item>
+    </channel>
+</rss>

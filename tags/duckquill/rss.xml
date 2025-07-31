@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>黑百合 | Home - Duckquill</title>
+      <link>https://widowmaker2025.github.io/</link>
+      <description>主要关注技术，读书，工具分享等方向.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://widowmaker2025.github.io/tags/duckquill/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Auto and Manual Dark Mode Switching Is a Pain</title>
+          <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/auto-and-manual-dark-themes-are-pain/</link>
+          <guid>https://widowmaker2025.github.io/blog/auto-and-manual-dark-themes-are-pain/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/auto-and-manual-dark-themes-are-pain/">&lt;blockquote class=&quot;markdown-alert-note&quot;&gt;
+&lt;p&gt;&lt;del&gt;This is a post in a new format called “microblog”, not quite a Mastodon post nor a full-blown blog post, you got the idea :)&lt;&#x2F;del&gt;
+Changed my mind, blog (even small) is here, microblog is on Fediverse, no in between.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I was just working on adding a manual dark mode toggle to Duckquill as &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;daudix&#x2F;duckquill&#x2F;issues&#x2F;5&quot;&gt;some people wanted to see it&lt;&#x2F;a&gt;, and it turned out to be a huge pain (who might’ve though), it needs either:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Having two separate stylesheets for dark&#x2F;light&lt;&#x2F;li&gt;
+&lt;li&gt;Having variables duplicated somewhere else&lt;&#x2F;li&gt;
+&lt;li&gt;Letting the JS manage the theme toggling instead of the browser, which of course will break if user has JS disabled.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The cleanest solution I’ve found is adding a checkbox that overrides the color variables to dark when checked, and adding JS that will save its state. This works, even with JS disabled, but it breaks the automatic theme switching based on OS style, ughhh.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Website 2.0</title>
+          <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/website-rewrite-in-zola/</link>
+          <guid>https://widowmaker2025.github.io/blog/website-rewrite-in-zola/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/website-rewrite-in-zola/">&lt;h2 id=&quot;backstory&quot;&gt;Backstory&lt;&#x2F;h2&gt;
+&lt;p&gt;It’s been about 4 months since the last post, all this time I’ve been procrastinating, doing some side projects, learning Blender, and… rewriting my website from scratch!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-rewrite&quot;&gt;The Rewrite&lt;&#x2F;h2&gt;
+&lt;p&gt;The first rewrite attempt happened pretty much right after I published the &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;&quot;&gt;previous devlog&lt;&#x2F;a&gt;, I thought using Hugo was a good idea, but I was horribly wrong. I lost my mind on the third day without making any progress. I asked some people about using Hugo and their reaction was something like “Oh God, use anything but Hugo, you will regret using it”, and it was true.&lt;&#x2F;p&gt;
+&lt;p&gt;I then tried Zola, which at first seemed like a worse Jekyll with some features missing, but after trying it out it was actually Jekyll 2.0.&lt;&#x2F;p&gt;
+&lt;p&gt;B-but why move from Jekyll in the first place?&lt;&#x2F;p&gt;
+&lt;p&gt;Well… there were a few reasons for this, like speed, Ruby dependency hell, broken internal linking and the need for third-party plugins for basic functionality, but the last straw was…&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;jekyll-issues&quot;&gt;Jekyll Issues&lt;&#x2F;h3&gt;
+&lt;p&gt;One of the recent issues with Jekyll was that Dart Sass support didn’t work due to outdated dependencies in the official Jekyll Docker image. On the other hand, Zola is modern, fast, has all the features I need, uses the Dart Sass compiler, has good support for creating and using themes (more on that later), and uses &lt;abbr title=&quot;Rust&quot;&gt;🦀&lt;&#x2F;abbr&gt;, which is the best lang on the planet (&#x2F;s, sort of).&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;new-codebase&quot;&gt;New Codebase&lt;&#x2F;h3&gt;
+&lt;p&gt;The other major change is that the “Home”, “Design Showcase”, and “Info” pages have been moved away from using the separate repo and codebase to being part of the same website; it’s confusing, so here’s a table of how it used to be:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Page&lt;&#x2F;th&gt;&lt;th&gt;Repo&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Home&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;pages&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Info&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;pages&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Works&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;pages&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Blog&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;blog-source&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Now everything is in the &lt;code&gt;website&lt;&#x2F;code&gt; repo, using the same stylesheet and templates:&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Page&lt;&#x2F;th&gt;&lt;th&gt;Repo&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;Home&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;website&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Info&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;website&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Works&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;website&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;Blog&lt;&#x2F;td&gt;&lt;td&gt;&lt;code&gt;website&lt;&#x2F;code&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h3 id=&quot;look-and-feel&quot;&gt;Look and Feel&lt;&#x2F;h3&gt;
+&lt;p&gt;Almost every single style and template has been reworked, resulting in a much nicer look and feel, some that I can remember:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Brand new navigation bar!&lt;&#x2F;li&gt;
+&lt;li&gt;Primary color is now used to tint the background (bye boring gray!).&lt;&#x2F;li&gt;
+&lt;li&gt;CRT style is now used for ASCII, replacing the old “opaque to transparent gradient”.&lt;&#x2F;li&gt;
+&lt;li&gt;Header styles have been reworked; they’re now thin, italic, and use JetBrains Mono with an alternative character set (&lt;code&gt;ss02&lt;&#x2F;code&gt;).&lt;&#x2F;li&gt;
+&lt;li&gt;Quotations and horizontal rules now have slightly rounded corners.&lt;&#x2F;li&gt;
+&lt;li&gt;Code blocks now use Solarized syntax highlighting theme instead of GitHub’s; it changes from light to dark variant depending on current color scheme.&lt;&#x2F;li&gt;
+&lt;li&gt;Source Code Pro font is now used for code blocks instead of system one.&lt;&#x2F;li&gt;
+&lt;li&gt;New, animated 404 image.&lt;&#x2F;li&gt;
+&lt;li&gt;Tags are now displayed next to the date, both in the post list and in the post itself. Check out this neat effect on hover!&lt;&#x2F;li&gt;
+&lt;li&gt;Posts can now be filtered by a tag, e.g you can filter only posts containing the &lt;code&gt;Devlog&lt;&#x2F;code&gt; tag.&lt;&#x2F;li&gt;
+&lt;li&gt;New post navigation (previous&#x2F;next post links at the end of the post).&lt;&#x2F;li&gt;
+&lt;li&gt;And more! (&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;daudix&#x2F;pages&#x2F;commit&#x2F;0323f9658345ec5f254e24b4385c31ebe9a69f15&quot;&gt;initial migration commit&lt;&#x2F;a&gt;, ~2500 changes!).&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;reborn-duckquill&quot;&gt;Reborn Duckquill&lt;&#x2F;h3&gt;
+&lt;p&gt;Now to the Duckquill, it’s been transformed from a Jekyll template to a proper Zola theme, the good thing about themes is that you can easily update and non-destructively tweak them by overriding some configuration variables and files.&lt;&#x2F;p&gt;
+&lt;p&gt;Duckquill powers this website, but can be used by anyone, although I use some additional styles unique to this website.&lt;&#x2F;p&gt;
+&lt;p&gt;It’s listed on the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;themes&#x2F;duckquill&#x2F;&quot;&gt;Zola themes page&lt;&#x2F;a&gt;, of which I’m quite proud of ^^&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;It’s been an interesting journey for sure; trying to use Hugo, losing my mind, regretting life choices, learning new SSG, burning out, coming back, learning Sass, HTML, and Tera (a bit like Liquid), procrastinating, coming back, rewriting half of the styles, and finally submitting the theme to the Zola themes website (not exactly in that order). All this, in my opinion, was worth it.&lt;&#x2F;p&gt;
+&lt;p&gt;My plan now is to write a few posts and focus less on the website, since it’s a wormhole I can’t leave.&lt;&#x2F;p&gt;
+&lt;p&gt;Shout out to &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;tesk.page&quot;&gt;Hari Rana&lt;&#x2F;a&gt; for helping to improve the accessibility of the site by pointing out contrast issues, as well as some style change suggestions!&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

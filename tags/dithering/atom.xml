@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>黑百合 | Home - Dithering</title>
+    <subtitle>主要关注技术，读书，工具分享等方向.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://widowmaker2025.github.io/tags/dithering/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-06-12T00:00:00+00:00</updated>
+    <id>https://widowmaker2025.github.io/tags/dithering/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Gemini: Exploring the Cozy World of Capsules and Space</title>
+        <published>2023-06-12T00:00:00+00:00</published>
+        <updated>2023-06-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              widowmaker2025
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/blog/gemini-exploring-the-cozy-world-of-capsules-and-space/"/>
+        <id>https://widowmaker2025.github.io/blog/gemini-exploring-the-cozy-world-of-capsules-and-space/</id>
+        
+        <content type="html" xml:base="https://widowmaker2025.github.io/blog/gemini-exploring-the-cozy-world-of-capsules-and-space/">&lt;p&gt;This post is made to give you basic understanding of what Gemini is, what are Capsules and Gemlogs, modern-day use of retro image techniques and text-based art&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;markdown-alert-tip&quot;&gt;
+&lt;p&gt;I highly recommend you to read geminiquickst.art before this post, because it provides a lot of valuable information about Gemini, and it is better written than this post.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;what-is-gemini&quot;&gt;What Is Gemini&lt;&#x2F;h2&gt;
+&lt;blockquote class=&quot;markdown-alert-note&quot;&gt;
+&lt;p&gt;For more accurate and in-depth answer to this question see &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gemini.circumlunar.space&#x2F;docs&#x2F;faq.gmi&quot;&gt;Project Gemini FAQ&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Gemini is how some people call it - “smol web” - &lt;abbr title=&quot;World Wide Web (WWW)&quot;&gt;web&lt;&#x2F;abbr&gt; without distracting elements such as ads, stylesheets that define website look, various tracking scripts, cookies and etc.&lt;&#x2F;p&gt;
+&lt;p&gt;Gemini has its own aesthetics, it feels cozy, is small, has its own community, and are easy to use&lt;&#x2F;p&gt;
+&lt;p&gt;It’s not made to replace or compete with web, but to co-exist with it, it’s made for those who like old web philosophy, but would like to use modern tools&lt;&#x2F;p&gt;
+&lt;p&gt;Project Gemini started in June 2019 by &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.circumlunar.space&#x2F;~solderpunk&quot;&gt;Solderpunk&lt;&#x2F;a&gt;, who remains the “Benevolent Dictator” of the project&lt;&#x2F;p&gt;
+&lt;p&gt;In February 2021, long time Gemini contributor Sean Conner was granted some decision making authority to help finalize the Gemini specification during a time when Solderpunk was unable to dedicate the necessary time and energy to the project&lt;&#x2F;p&gt;
+&lt;p&gt;The current (informal) specification of the protocol is largely frozen, so no major changes will be made&lt;&#x2F;p&gt;
+&lt;p&gt;Take a look at &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kr1sp1n&#x2F;awesome-gemini&quot;&gt;awesome-gemini&lt;&#x2F;a&gt; for list of great Gemini-related projects&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gemini-browsers&quot;&gt;Gemini Browsers&lt;&#x2F;h2&gt;
+&lt;p&gt;Gemini is a protocol that are not supported by &lt;abbr title=&quot;Firefox, Chrome, Safari and etc.&quot;&gt;regular&lt;&#x2F;abbr&gt; web browsers, so you will need a separate browser for it. As Gemini protocol are much easier than web, there are a lot of browsers for it, some good ones are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;skyjake&#x2F;lagrange&quot;&gt;Lagrange&lt;&#x2F;a&gt; (Cross-platform) - Beautiful, fast and customizable Gemini browser&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ranfdev&#x2F;Geopard&quot;&gt;Geopard&lt;&#x2F;a&gt; (Linux) - Colorful and adaptive Libadwaita Gemini browser written in Rust&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Corewala&#x2F;Buran&quot;&gt;Buran&lt;&#x2F;a&gt; (Android) - Simple Gemini browser for Android&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;pitr&#x2F;gemini-ios&quot;&gt;Elaho&lt;&#x2F;a&gt; (iOS) - Simple Gemini browser for iOS&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;makew0rld&#x2F;amfora&quot;&gt;Amfora&lt;&#x2F;a&gt; (Terminal) - Fancy Gemini browser for terminal&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Or, if you don’t want to install a separate browser for Gemini or just want to quickly look over some capsule, you can use Gemini to web proxy, such as &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;portal.mozz.us&quot;&gt;portal.mozz.us&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;browsing-geminispace&quot;&gt;Browsing Geminispace&lt;&#x2F;h2&gt;
+&lt;p&gt;You can start browsing Geminispace by looking over some capsules at various aggregators:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;gemini:&#x2F;&#x2F;gemini.circumlunar.space&#x2F;capcom&quot;&gt;gemini.circumlunar.space&#x2F;capcom&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;gemini:&#x2F;&#x2F;rawtext.club:1965&#x2F;~sloum&#x2F;spacewalk.gmi&quot;&gt;rawtext.club:1965&#x2F;~sloum&#x2F;spacewalk.gmi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;gemini:&#x2F;&#x2F;calcuode.com&#x2F;gmisub-aggregate.gmi&quot;&gt;calcuode.com&#x2F;gmisub-aggregate.gmi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Gemini also has its own search - &lt;a href=&quot;gemini:&#x2F;&#x2F;geminispace.info&quot;&gt;geminispace.info&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I have found some interesting capsules you might like to look at:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;gemini:&#x2F;&#x2F;chat.mozz.us&quot;&gt;chat.mozz.us&lt;&#x2F;a&gt; - Unmoderated chat for everyone&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;gemini:&#x2F;&#x2F;station.martinrue.com&quot;&gt;station.martinrue.com&lt;&#x2F;a&gt; - Gemini social media&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;gemini:&#x2F;&#x2F;cosmic.voyage&quot;&gt;cosmic.voyage&lt;&#x2F;a&gt; - Tilde community based around a collaborative science-fiction universe&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;gemini:&#x2F;&#x2F;skyjake.fi&quot;&gt;skyjake.fi&lt;&#x2F;a&gt; - Lagrange developers capsule&lt;&#x2F;li&gt;
+&lt;li&gt;And more to be found ;)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;creating-own-capsule&quot;&gt;Creating Own Capsule&lt;&#x2F;h2&gt;
+&lt;p&gt;You can start by getting your own Gemini capsule (a website in Geminispace), there are multiple free capsule providers, one of them are &lt;a href=&quot;gemini:&#x2F;&#x2F;flounder.online&quot;&gt;Flounder&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Flounder gives you own Capsule, where you can put files, posts, and it also provides web proxy, so your friends can enjoy your content from regular web browsers&lt;&#x2F;p&gt;
+&lt;p&gt;There are, however, some limits:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Max file size: 1MB&lt;&#x2F;li&gt;
+&lt;li&gt;Max user space: 10MB&lt;&#x2F;li&gt;
+&lt;li&gt;Max file count: 1024&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The may seem strict at first, but they are more than enough for Gemini text&lt;&#x2F;p&gt;
+&lt;p&gt;First of all you need to register an account, every account is manually approved, so you may need to wait, (in my case I had to wait 2 months, and then I decided to send an email to admin, he immediately approved my registration, huge thanks to him!)&lt;&#x2F;p&gt;
+&lt;p&gt;After your registration have been approved, take a look at &lt;a href=&quot;gemini:&#x2F;&#x2F;admin.flounder.online&#x2F;tips_and_tricks.gmi&quot;&gt;Tips and tricks&lt;&#x2F;a&gt; and &lt;a href=&quot;gemini:&#x2F;&#x2F;admin.flounder.online&#x2F;gemini_text_guide.gmi&quot;&gt;Gemini text guide&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;And you are ready to start writing!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;writing-gemtext&quot;&gt;Writing Gemtext&lt;&#x2F;h2&gt;
+&lt;p&gt;Gemtext is a markup language a bit similar to Markdown, it has only most needed formatting&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Headers&lt;&#x2F;li&gt;
+&lt;li&gt;Hyperlinks&lt;&#x2F;li&gt;
+&lt;li&gt;Lists (such as this one)&lt;&#x2F;li&gt;
+&lt;li&gt;Quotes&lt;&#x2F;li&gt;
+&lt;li&gt;Raw unformatted text&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;You can learn Gemtext in 5 minutes, for start, take a look at:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gemini.circumlunar.space&#x2F;docs&#x2F;gemtext.gmi&quot;&gt;Gemtext quick introduction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gemini.circumlunar.space&#x2F;docs&#x2F;cheatsheet.gmi&quot;&gt;Gemtext cheatsheet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Gemini also supports Unicode, so you can do 🤣️, 🖂, 🗺 and etc.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are familiar with Markdown, there are Markdown to Gemtext converters, e.g &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;sr.ht&#x2F;~kota&#x2F;gemgen&quot;&gt;gemgen&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;(This post were written in Markdown, so I found out the hard way that gemtext doesn’t support links in text, they need to be on separate line)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;adding-images&quot;&gt;Adding Images&lt;&#x2F;h2&gt;
+&lt;p&gt;Knowing about file size and overall available size restrictions of Flounder, you may have question: how I can include images!&lt;&#x2F;p&gt;
+&lt;p&gt;There are 2 ways, first one is to use put image somewhere at web (Imgur and others) or to put the image directly in your capsule after compression, one of the ways to greatly compress an image is dithering&lt;&#x2F;p&gt;
+&lt;p&gt;Dither is an intentionally applied form of noise used to randomize quantization error, preventing large-scale patterns such as color banding in images, basically, it allows to reduce the amount of colors in image while keeping somewhat readable image&lt;&#x2F;p&gt;
+&lt;p&gt;For this you can use Halftone - A simple Linux app that allows you to dither your image in seconds, or you can use Terminal tools such as Pixfect (by me :P), ImageMagick and others. You can also use amazing website for image dithering with some really interesting options - Dither Me This&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;tfuxu&#x2F;Halftone&quot;&gt;Halftone&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;daudix&#x2F;Pixfect&quot;&gt;Pixfect&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;doodad.dev&#x2F;dither-me-this&quot;&gt;Dither Me This&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Example of simple ordered image dithering with 2 colors using ImageMagick &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash z-code&quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;convert&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; image.jpg&lt;span class=&quot;z-variable z-parameter z-option z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-parameter z-shell&quot;&gt; -&lt;&#x2F;span&gt;resize&lt;&#x2F;span&gt; 840x840&lt;span class=&quot;z-variable z-parameter z-option z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-parameter z-shell&quot;&gt; -&lt;&#x2F;span&gt;strip&lt;&#x2F;span&gt;&lt;span class=&quot;z-variable z-parameter z-option z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-parameter z-shell&quot;&gt; -&lt;&#x2F;span&gt;colors&lt;&#x2F;span&gt; 4&lt;span class=&quot;z-variable z-parameter z-option z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-parameter z-shell&quot;&gt; -&lt;&#x2F;span&gt;ordered-dither&lt;&#x2F;span&gt; o8x8 image-dithered.png&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;I will use Halftone in this example&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Open Halftone and open image&lt;&#x2F;li&gt;
+&lt;li&gt;Tweak settings at your liking, I will go with default, except I will change width to 512&lt;&#x2F;li&gt;
+&lt;li&gt;Press “Dither It!”&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;This is what we get in the end&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;gemini-exploring-the-cozy-world-of-capsules-and-space&#x2F;bay-bridge-floyd.png&quot; alt=&quot;bay bridge floyd&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;San Francisco Bay Bridge photo in dark tones, with Floyd-Steinberg dithering&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;unsplash.com&#x2F;photos&#x2F;raNGlrn5JRI&quot;&gt;Image on Unsplash&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Not bad, right? and what’s with the file size? let’s see!&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;bay-bridge.jpg &amp;gt; 521,9 KB
+halftone-bay-bridge.png &amp;gt; 26,2 KB&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;The decrease is 94.9799%, quite a lot considering limited storage&lt;&#x2F;p&gt;
+&lt;p&gt;Now you can fit 357 photos, while without compression you could only fit 19&lt;&#x2F;p&gt;
+&lt;p&gt;But, we can go even further, by using less colors and different dithering algorithm&lt;&#x2F;p&gt;
+&lt;p&gt;With ordered dithering (Bayer) and 2 colors we get the following result&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;gemini-exploring-the-cozy-world-of-capsules-and-space&#x2F;bay-bridge-bayer.png&quot; alt=&quot;bay bridge bayer&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;San Francisco Bay Bridge photo in black and white, with Bayer dithering&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;unsplash.com&#x2F;photos&#x2F;raNGlrn5JRI&quot;&gt;Image on Unsplash&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;bay-bridge.jpg &amp;gt; 521,9 KB
+halftone-bay-bridge-2.png &amp;gt; 4,9 KB&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;99.0611% decrease&lt;&#x2F;p&gt;
+&lt;p&gt;The image is notably worse, but it has its own aesthetics, and size speaks for itself&lt;&#x2F;p&gt;
+&lt;p&gt;Taking into account ability to link images from web, images are not such a big issue in Geminispace&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ascii&quot;&gt;ASCII&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;abbr title=&quot;American Standard Code for Information Interchange&quot;&gt;ASCII&lt;&#x2F;abbr&gt; art is a good way to give your Gemlog (this is how blogs hosted at Gemini are called) more personality and make them more fun&lt;&#x2F;p&gt;
+&lt;p&gt;ASCII art is with us from around 1966, and was invented in large part because early printers often lacked graphics ability and thus, characters were used in place of graphic marks that couldn’t display normal images, ASCII art was also used in early e-mail when images could not be embedded &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-2-1&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;ASCII art is used to-date, sometimes as a braille art (you likely seen one of these), as image converted to ASCII, as text banners or as emoticons :‑) &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-3-1&quot;&gt;&lt;a href=&quot;#fn-3&quot;&gt;3&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Image to ASCII is very common, and you can easily make one yourself!&lt;&#x2F;p&gt;
+&lt;p&gt;Good tools for image to ASCII are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;TheZoraiz&#x2F;ascii-image-converter&quot;&gt;ascii-image-converter&lt;&#x2F;a&gt; - Modern, fast, has some useful options to fine-tune the image&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Talinx&#x2F;jp2a&quot;&gt;jp2a&lt;&#x2F;a&gt; - Good, time-tested tool&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gitlab.com&#x2F;gregorni&#x2F;Letterpress&quot;&gt;Letterpress&lt;&#x2F;a&gt; - Based on the jp2a, has good UI made with Libadwaita&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;ascii-image-converter in my experience, works the best&lt;&#x2F;p&gt;
+&lt;p&gt;Here are simple example of ASCII and Braille images made with ascii-image-converter&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@%%%%%%%%%%%%%%%%%%%%%
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%@@
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@@@*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@@%+@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@@**@@@@@@@@@@@@@@@@@@@#@@@@%###%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+@@@@%%%#@@@@@@@@@@@@@@@@
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@%=%@@@@@@@@@@@@@@@@@@%*@%+-:::-------=###%%%%%@@@@@@@@@@@@@@@@@@@%#=#@@@#++--%%@#*+#@@@@@@@@@
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@*+@@@@@@@@@@@@@@@@@@@##%==------------:::::::::-----==========++*%%*@@@#-=::#%%%+=:-+*=**=@@#
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@@=#@#+====+++++#%%%%%%##=-==+=:------=-:------:::::::::..........=###@@@@+:-+#%@#+*=#**=+-=*+=
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@@#+@=--::::--:::-+++==%#-:==+*=-+++=--=:----------=====-------::::.:+*@@#*=+++#*%=*=*%##*%+#@*#
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;#***=+@@%.=----------+++*=*%+:==+++%%*+*#*+--===------==============++==---==-=-+==*+==+-*##+**=@%#%
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;*-:::*@@=-----------=*++==++ :+---:-++++**=--==++++===--------===+**%%=-========---------=+++*++%%%@
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@*=:*=+.::....:::::-++++=*-.--::...:---::.  ...::----==--------===#@#==----============--------===+
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;@@@@@++*   .........:-----+--:..:........:. ..      ...::::::::::=+++=-=---=-----------====-==------
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;#%##%+*#.    .. .  .::-:::=--.......................:::::::::::::::::::::::------------------------=
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;++-----+:          .:--=--=--    ........................::..:::::::::::::::::::::..:::::----------=
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;:..:-=.:--:..     ..:+####++-.         ..     .   .......          .......::::-----==++===-:::::::--
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;=--------+*+=-:-=-==--::-===-::.....         ..::---::::::---:::----==++******++++++++****##**+=-::.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;==-:.:::..:--===-::-=:..:=:..+--:-::::::...   .-------=###%%#=+####*+++==--:::.    .......::--=++++=
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;.::.::--:-=:.------=:--:=+:-+*:--:::::-:....     .::-:+*++==+=++=-:.....:.:..::::::::........ ....:-
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;..  :..::....::.:--==:. -:..:.::: .-.::::-..::. .     :=-:.:---::.:::::::::......::::::::::::-.:::::
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;=------=-::=-:---=+-..--:-++=. :::--::-======+=-:::::--+..-=-::::........ ..............:::.::--::::
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;#######%%#%#%##%%%%: =+..#%#%* -%%#################*=:=-:+*++=##**+=--:......... .............::::::
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;**************+****=..-. :++=: -+++++++++++++++***+:::++**++==+*####*****+==-:::....................
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;++++++++++++++++++++*++++======+================-:  .=##***+++=++++++++++********+++=-==--==---::---
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;**##****##*####**###*#**######*###*#####**####+: .:::=*#**+==#*******************#**######*######*##
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;**********#*******************************#***: .=-::-:::--. :************************+******+******
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;++++++++++++++++++++++++++++++++++++*++++****+. :-..*::=-:+=  =**************++**+****++******+***+*
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;+*++*+*+++++*+++++++++++++++++++++++++++++++++-  .  -=-+=++:  ++++++++++++++++++++++++++++++++++*+++
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;**+++*+*++++++++++++++++++++++++=++++=+=====+==---:  --=-=. .----:::::::::::::::::::---------=======
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;*++*+**++***+++****++*+++++++++++++++++++++++++++++=========+=====-====--==-==---------:------------
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;*+++++++++++**+*+*******+***+*************************************************************++**++++++
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⡟⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣛⣁⣾⣿⣿⣿⣿⣶⣶⠅⠸⢿⣿⣿⣟⣹⠋⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣟⢳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢸⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠛⠛⠉⠉⠉⠉⠉⠉⠛⠛⠛⣵⣿⣿⣿⣿⣿⣿⣧⠭⡡⠁⠀⣶⣶⣶⣿⢭⣍⠀⠙⠲⠿⠧⣿⡿⢘⣿⣿⣟
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⡏⣾⣿⣿⠋⠉⠉⠉⠙⠛⠛⠉⠉⠍⢿⣿⣿⡿⢿⡿⣿⣿⣿⠇⡘⠀⢀⣤⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⡇⠀⢀⣨⣟⢿⣿⡟⣸⡿⢠⣿⣿⣶⣤⣤⡄⣈⣙⠋⠹
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⢣⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣛⣷⠒⢆⣿⡿⠜⠀⡇⢠⣾⣛⠁⢀⣤⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⠻⣿⣿⣿⣯⡑⢰⡻⢸⣿⣷⡿⠁⣿⠇⣾⣿⣿⣿⢿⣿⣷⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⡿⣿⣽⡶⠤⢸⣿⣿⡿⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠻⠟⠣⣼⣿⡿⢠⣰⠀⠹⢇⠹⢿⣿⣯⣗⣟⣿⣦⣤⡀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢠⣀⠀⠀⠀⠀⠈⠉⠁⠘⠀⠠⠶⠇⠈⠿⠹⠃⢤⡏⠀⣼⣿⣿⣇⣾⡟⠛⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣧⡀⠀⠀⠀⣸⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣶⠊⠋⢉⡇⠀⠀⡍⠀⠀⠀⠀⠈⢿⣌⣋⣹⡿⠛⠉⠀⠀⠀⠙⠻⠿⣷⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠛⠛⠿⠃⣶⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣦⣄⡀⣿⡏⠻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⠿⠿⠿⠿⢾⡇⠀⠀⠃⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠛⠓⠦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⢿⣿⣿⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠃⠉⠛
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⡇⢰⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠛⠋⠁⠀⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⢿⣿⣿⡇⢼⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⡽⢗⠀⠀⠀⡇⠨⠷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⡄⢰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⠀⠀⠀⠀⢀⡇⠀⠀⠀⣀⣀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣩⣿⣿⣷⣭⡇⣘⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⢂⠄⠀⡀⠀⠃⠉⠀⠀⠻⢿⣧⠄⣀⠀⢐⠶⠂⠾⠷⠂⠀⠀⠀⠉⠙⠑⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠠⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⢀⣀⣀⣀⣀⣠⣤⣤⣤⣶⣶⣶⣶⠶⠿⠿⠛⠛⠛⠛⠛⠛⠛⠛⠻⠿⠿⢿⣿⣷⣶⣤⣄⣀⠀⠀⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠈⢬⠙⠃⠀⠀⠀⢀⠏⠀⠀⠀⠀⣶⠀⠀⠀⣴⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⣠⣶⣾⣿⣿⣿⣿⠋⢵⡿⠿⣿⣟⠛⠛⠛⠋⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠙⠛⠿⠶⣦
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠐⢀⠀⠠⠚⠀⠀⠀⠀⢠⠇⠀⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠀⢻⡻⠛⠛⠛⠉⣩⠴⠞⠿⠍⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣩⠖⠋⠉⠀⠨⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠂⠀⠀⠀⠀⠀⣆⠀⠀⠤⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢑⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣀⣀⣀⣀⣀⣀⣀⣄⣀⣀⣀⣀⣀⣀⣀⣀⣄⣠⣤⠀⠀⢀⡴⠂⠀⢀⣴⣶⣤⡀⠀⢀⣀⣀⠀⡀⠀⠀⢀⡐⢄⣀⢀⣀⢀⣉⣳⡀⠀⠀⠀⠀⠀⡠⠃⡜⠀⠀⣠⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠒⠀⠀⠀⠀⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⢸⡄⠀⠀⣿⣿⣿⣿⣷⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⢰⠇⢠⣾⣿⣿⠁⠀⣾⣿⣷⣶⣦⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⡿⠿⠿⡿⠿⢿⠿⢧⠀⠀⠉⠀⠀⠘⠛⠿⠟⠁⠀⠸⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⢿⣿⠟⠁⠀⠀⣍⣴⣿⣿⣿⣿⡂⢬⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣤⣤⡀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣥⣾⣾⣶⣶⣾⣿⣾⣿⣿⣷⣾⣶⣶⣦⣴⣶⣶⣶⣦⣴⣦⣤⣤⣤⣤⣤⣤⣤⣤⣤⣦⣤⣤⣄⡤⠂⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣧⣶⣖⣿⣟⣾⣿⣷⣿⣿⣻⢿⣾⣿⣿⣿⣾⣶⣿⣿⣿⣿⣷⣶⣤⢠⣤⣤⣤⣤⣤⣤⣤⣀⣀⣀⣀⣀⣀⣀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢀⡀⠀⠈⠙⢿⣿⣿⣿⠿⠿⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⢀⠏⠀⠀⢀⠖⡉⠉⠁⡐⢄⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣯⣿⣾⣿⣿⣿⣿⣿⣯⣿⣿⣿⣷⢿⢿⡽⣿⡿⣿⡿⣿⡿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠘⠀⠀⠀⡏⠀⠀⣤⠄⠤⢼⡇⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⣿⡿⣿⣿⣽⣿⣫⣽⣻⣿⣿⣿⣿⣿⢽⣿⣻⣿⣹⣾⣿⣿⣿⣾⣯⣿⣿⣳⣾⢿⣶⣿⣭⣿⡄⠀⠀⠀⠀⠀⠱⣠⠎⢰⠘⣦⡼⠁⠀⠀⣼⣿⣟⡛⠻⠻⠛⠻⢛⠛⣏⠟⣽⠚⠿⠿⡛⠫⠻⠿⠛⡹⢇⡹⠻⠛⠟⠟⠟⠿⠻⡿⡿⡿⣿⣟⣿⡿
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣾⣿⣿⣿⣿⣿⣻⣻⣿⣿⣿⣿⣿⣿⣿⣿⣙⣿⣽⣿⣿⣭⣻⣜⣿⣿⣿⣟⣻⢋⣉⣛⣳⣽⠊⣛⠃⡆⠥⠊⠠⣩⣈⡁⠀⠀⢀⡀⠀⠀⠈⠓⠛⠚⠋⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠉⠑⠛⠙⠉⠛⠑
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⣿⣿⣿⣾⣿⣾⣿⣿⣿⣿⣿⣯⣼⣴⣿⣿⣷⣯⣾⣵⣶⣿⣿⣦⣼⣷⣮⡶⣶⣴⣶⣦⢶⣤⣶⢂⣤⡤⣤⣠⣦⣄⡄⢀⣔⣠⠀⣠⡄⢠⣄⣄⠀⢠⣀⢀⢀⡀⠀⡀⠀⠀⡀⠀⠀⢀⢄⠀⠀⠀⠀⠀⠀⠀⠀⠤⠀
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;⣿⣿⡻⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⣿⣿⣾⣷⣶⣧⣶⣷⣶⣶⣶⣾⣶⣦
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;But, do you think it looks anything like this image?&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;gemini-exploring-the-cozy-world-of-capsules-and-space&#x2F;grayscale-plane.png&quot; alt=&quot;grayscale plane&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;T-6 plane photo in grayscale, with Floyd-Steinberg dithering&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;unsplash.com&#x2F;photos&#x2F;cs4uFYrNZfc&quot;&gt;Image on Unsplash&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Me neither…&lt;&#x2F;p&gt;
+&lt;p&gt;The result heavily depends on amount of detail, colors, contrast, the width of ASCII output and etc. you can get pretty decent result, but for images it probably worth just to use dithering ;)&lt;&#x2F;p&gt;
+&lt;p&gt;But… ASCII works nicely for art and text banners, like this computer!&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;                       .,,uod8B8bou,,.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;              ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         !...:!TVBBBRPFT||||||||||!!^^&amp;quot;&amp;quot;&amp;#39;   ||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         !.......:!?|||||!!^^&amp;quot;&amp;quot;&amp;#39;            ||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         !.........||||                     ||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         !.........||||  ##                 ||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         !.........||||                     ||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         !.........||||                     ||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         !.........||||                     ||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         !.........||||                     ||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;         `.........||||                    ,||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;          .;.......||||               _.-!!|||||
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;   .,uodWBBBBb.....||||       _.-!!|||||||||!:&amp;#39;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;!YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;!..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;!....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;!......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^&amp;quot;`;:::       `.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;!........YBBBBBBBBBBRPFT?!::::::::::^&amp;#39;&amp;#39;...::::::;         iBBbo.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;`..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;  `..........:::::::::::::::::::::::;iof688888888888b.     `YBBBP^&amp;#39;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;    `........::::::::::::::::;iof688888888888888888888b.     `
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;      `......:::::::::;iof688888888888888888888888888888b.
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;        `....:::;iof688888888888888888888888888888888899fT!
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;          `..::!8888888888888888888888888888888899fT|!^&amp;quot;&amp;#39;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;            `&amp;#39; !!988888888888888888888888899fT|!^&amp;quot;&amp;#39;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;                `!!8888888888888888899fT|!^&amp;quot;&amp;#39;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;                  `!988888888899fT|!^&amp;quot;&amp;#39;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;                    `!9899fT|!^&amp;quot;&amp;#39;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;                      `!^&amp;quot;&amp;#39;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Or this fancy banner!&lt;&#x2F;p&gt;
+&lt;pre class=&quot;z-code&quot;&gt;&lt;code&gt;&lt;span class=&quot;z-text z-plain&quot;&gt; ██████╗ ███████╗███╗   ███╗██╗███╗   ██╗██╗
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;██╔════╝ ██╔════╝████╗ ████║██║████╗  ██║██║
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;██║  ███╗█████╗  ██╔████╔██║██║██╔██╗ ██║██║
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;██║   ██║██╔══╝  ██║╚██╔╝██║██║██║╚██╗██║██║
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt;╚██████╔╝███████╗██║ ╚═╝ ██║██║██║ ╚████║██║
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-text z-plain&quot;&gt; ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;The ASCII art can be found online in huge amounts, I will give you some good websites for start&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.asciiart.eu&quot;&gt;www.asciiart.eu&lt;&#x2F;a&gt; - ASCII art archive&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ascii.co.uk&#x2F;art&quot;&gt;ascii.co.uk&#x2F;art&lt;&#x2F;a&gt; - A LOT of various ASCII art&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;asciiart.website&quot;&gt;asciiart.website&lt;&#x2F;a&gt; - Christopher Johnson’s ASCII art collection&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;As for banners, they can be easily created with figlet or toilet, you can easily find installation instructions online, I also recommend to install additional beautiful and sometimes funny fonts from &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;xero&#x2F;figlet-fonts&quot;&gt;figlet-fonts&lt;&#x2F;a&gt;, which basically consists of few commands&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash z-code&quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;git&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; clone https:&#x2F;&#x2F;github.com&#x2F;xero&#x2F;figlet-fonts.git&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash z-code&quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-support z-function z-cd z-shell&quot;&gt;cd&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; figlet-fonts&#x2F;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash z-code&quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;sudo&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt; cp&lt;span class=&quot;z-variable z-parameter z-option z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-parameter z-shell&quot;&gt; -&lt;&#x2F;span&gt;r&lt;&#x2F;span&gt; .&#x2F; &#x2F;usr&#x2F;share&#x2F;figlet&#x2F;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;And then you can create your own banner!&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;bash&quot; class=&quot;language-bash z-code&quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;z-source z-shell z-bash&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-shell&quot;&gt;&lt;span class=&quot;z-variable z-function z-shell&quot;&gt;figlet&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-shell&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-option z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-parameter z-shell&quot;&gt; -&lt;&#x2F;span&gt;f&lt;&#x2F;span&gt; ANSI&lt;span class=&quot;z-constant z-character z-escape z-shell&quot;&gt;\ &lt;&#x2F;span&gt;Shadow &lt;span class=&quot;z-string z-quoted z-double z-shell&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-string z-begin z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;gemini&lt;span class=&quot;z-punctuation z-definition z-string z-end z-shell&quot;&gt;&amp;quot;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;To easily find the perfect font, you can look at &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;xero&#x2F;figlet-fonts&#x2F;blob&#x2F;master&#x2F;Examples.md&quot;&gt;font preview&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;There are also amazing graphical app for this - &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gitlab.com&#x2F;gregorni&#x2F;Calligraphy&quot;&gt;Calligraphy&lt;&#x2F;a&gt;, made specifically for creating ASCII banners!&lt;&#x2F;p&gt;
+&lt;p&gt;You can also use &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;patorjk.com&#x2F;software&#x2F;taag&#x2F;&quot;&gt;online tools&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h2&gt;
+&lt;p&gt;Gemini is cozy corner for those who tired of railway noise of the web, it has its own limitations and strengths, and of course, community, in this post we have briefly touched additional topics: dithering and ASCII art&lt;&#x2F;p&gt;
+&lt;p&gt;There are more things I want to tell you about, I want to write more in-depth post about Dithering, Halftone and tech limitations that forced us to implement such things&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;extra&quot;&gt;Extra&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;andregarzia.com&#x2F;2022&#x2F;01&#x2F;gemini-is-a-little-gem.html&quot;&gt;andregarzia.com&#x2F;2022&#x2F;01&#x2F;gemini-is-a-little-gem.html&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;gemini:&#x2F;&#x2F;voidspace.blog&#x2F;ramble&#x2F;capsule-importance.gmi&quot;&gt;voidspace.blog&#x2F;ramble&#x2F;capsule-importance.gmi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;section class=&quot;footnotes&quot;&gt;
+&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mastodon.social&#x2F;@tbernard&#x2F;109675668676999287&quot;&gt;Tobias Bernard’s Mastodon post about dithering&lt;&#x2F;a&gt; &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;ASCII_art&quot;&gt;ASCII art at Wikipedia&lt;&#x2F;a&gt; &lt;a href=&quot;#fr-2-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li id=&quot;fn-3&quot;&gt;
+&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;List_of_emoticons&quot;&gt;List of emoticons at Wikipedia&lt;&#x2F;a&gt; &lt;a href=&quot;#fr-3-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;section&gt;
+</content>
+        
+    </entry>
+</feed>

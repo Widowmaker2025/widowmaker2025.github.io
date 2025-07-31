@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>黑百合 | Home - Mastodon</title>
+      <link>https://widowmaker2025.github.io/</link>
+      <description>主要关注技术，读书，工具分享等方向.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://widowmaker2025.github.io/tags/mastodon/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Splitting Myself to Pieces (Just Two, Actually)</title>
+          <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/alt-profile-on-akkoma/</link>
+          <guid>https://widowmaker2025.github.io/blog/alt-profile-on-akkoma/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/alt-profile-on-akkoma/">&lt;h2 id=&quot;what&quot;&gt;What?&lt;&#x2F;h2&gt;
+&lt;p&gt;This is a little bit of spontaneous post, but I still liked to write it, though be prepared for weird writing style, since as always, I’m experimenting with it :)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;backstory&quot;&gt;Backstory&lt;&#x2F;h2&gt;
+&lt;p&gt;You might know me online as a Daudix (&lt;em&gt;what a terrible nickname, but it’s too late to change it&lt;&#x2F;em&gt;), less known is that this is actually my silly side, while the David Lapshin one is… Well, more grounded.&lt;&#x2F;p&gt;
+&lt;p&gt;The thing is, these two have been living under the same roof (aka Mastodon profile) all this time, which made Daudix a little uncomfortable being silly in the presence of David Lapshin.&lt;&#x2F;p&gt;
+&lt;p&gt;So what did I do?&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;splitting&quot;&gt;Splitting&lt;&#x2F;h2&gt;
+&lt;p&gt;Earlier this month I decided to try out a new instance - no, a whole new software even - Akkoma; in short, I fell in love with it. What I liked about it is that it’s more lightweight yet has more features than Mastodon, even the glitch-soc edition (e.g. it can render MFM-Misskey Flavoured Markdown), plus it has slightly skeuomorphic look.&lt;&#x2F;p&gt;
+&lt;p&gt;I wasn’t sure if I should switch my home server from &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;social.treehouse.systems&#x2F;@daudix&quot;&gt;treehouse&lt;&#x2F;a&gt; or keep it as a backup, but then I thought “what if I keep my current main profile for the boring David and use the new instance for Daudix’s needs?”, and… I did it! and this is the official announcement, if you want to follow the new profile it is at &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pleroma.envs.net&#x2F;users&#x2F;daudix&quot;&gt;https:&#x2F;&#x2F;pleroma.envs.net&#x2F;users&#x2F;daudix&lt;&#x2F;a&gt; (Seirdy, the instance admin, rocks btw).&lt;&#x2F;p&gt;
+&lt;p&gt;Sometimes I might boost stuff from this new profile on the main, but otherwise I expect the main to be less active.&lt;&#x2F;p&gt;
+&lt;p&gt;I still don’t quite understand the relationship between Akkoma and Pleroma; they look just as maintained to me, but I guess there was a reason ¯\_(ツ)_&#x2F;¯&lt;&#x2F;p&gt;
+&lt;p&gt;Oh and one more thing: why not *key!!! (e.g. Sharkey).&lt;&#x2F;p&gt;
+&lt;p&gt;The answer is simple: just because!&lt;&#x2F;p&gt;
+&lt;p&gt;Slightly more detailed: because it’s too slow and buggy for my taste, even though Sharkey is faster than Firefish it’s still quite slow.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;And now that we are done…&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;ALEX, GO  YOURSELF WITH A &lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tl-dr&quot;&gt;TL;DR&lt;&#x2F;h2&gt;
+&lt;p&gt;I tried Akkoma and it clicked, now I will post goofy stuff there, follow it (if you want) at &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pleroma.envs.net&#x2F;users&#x2F;daudix&quot;&gt;https:&#x2F;&#x2F;pleroma.envs.net&#x2F;users&#x2F;daudix&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;alt-profile-on-akkoma&#x2F;akkoma-profile.png&quot; alt=&quot;Akkoma profile.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Screenshot of the header of my Akkoma profile&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+</description>
+      </item>
+    </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>黑百合 | Home - Silverblue</title>
+    <subtitle>主要关注技术，读书，工具分享等方向.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://widowmaker2025.github.io/tags/silverblue/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-02-19T00:00:00+00:00</updated>
+    <id>https://widowmaker2025.github.io/tags/silverblue/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Running Syncthing from inside Toolbx</title>
+        <published>2024-02-19T00:00:00+00:00</published>
+        <updated>2024-02-19T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              widowmaker2025
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/blog/syncthing-in-toolbx/"/>
+        <id>https://widowmaker2025.github.io/blog/syncthing-in-toolbx/</id>
+        
+        <content type="html" xml:base="https://widowmaker2025.github.io/blog/syncthing-in-toolbx/">&lt;p&gt;Today I wanted to reduce the amount of layered packages on my Silveblue install, sure thing it was easy to do, but there was one thing that wasn’t this easy, Syncthing.&lt;&#x2F;p&gt;
+&lt;p&gt;The issue is that it needs to autostart on login, otherwise it’s useless. Autostart using the GNOME Tweaks from inside Toolbx didn’t work, because it points to the regular binary location instead of Toolbx.&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;markdown-alert-note&quot;&gt;
+&lt;p&gt;There are &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.qualityology.com&#x2F;tech&#x2F;syncthing-in-toolbox-on-fedora-silverblue-with-systemd&#x2F;&quot;&gt;a few&lt;&#x2F;a&gt; &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mmarco94.github.io&#x2F;linux-guides&#x2F;immutable-os&#x2F;syncthing&quot;&gt;solutions&lt;&#x2F;a&gt;, and there’s also &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;zocker-160&#x2F;SyncThingy&quot;&gt;SyncThingy&lt;&#x2F;a&gt;, but I wanted to have the &lt;em&gt;original&lt;&#x2F;em&gt; Syncthing and easy way of solving things; manually creating Podman container when we have Toolbx seemed like overengineering.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;And so I backed up the &lt;code&gt;~&#x2F;.config&#x2F;autostart&#x2F;syncthing-start.desktop&lt;&#x2F;code&gt; before uninstalling the Syncthing overlay, located the Toolbx binary using &lt;code&gt;whereis toolbox&lt;&#x2F;code&gt;, replaced &lt;code&gt;&#x2F;usr&#x2F;bin&#x2F;syncthing&lt;&#x2F;code&gt; in the backed up Syncthing desktop file with &lt;code&gt;&#x2F;usr&#x2F;bin&#x2F;toolbox run syncthing&lt;&#x2F;code&gt;, put it back and logged out…&lt;&#x2F;p&gt;
+&lt;p&gt;And it worked! Here’s the final contents of &lt;code&gt;~&#x2F;.config&#x2F;autostart&#x2F;syncthing-start.desktop&lt;&#x2F;code&gt;:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;ini&quot; class=&quot;language-ini z-code&quot;&gt;&lt;code class=&quot;language-ini&quot; data-lang=&quot;ini&quot;&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-storage z-type z-genconfig&quot;&gt;[Desktop Entry]
+&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-meta z-param z-genconfig&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-genconfig&quot;&gt;Name&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;Start Syncthing
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-meta z-param z-genconfig&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-genconfig&quot;&gt;GenericName&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;File synchronization
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-meta z-param z-genconfig&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-genconfig&quot;&gt;Comment&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;Starts the main syncthing process in the background&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;.&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-meta z-param z-genconfig&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-genconfig&quot;&gt;Exec&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;&#x2F;&lt;&#x2F;span&gt;usr&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;&#x2F;&lt;&#x2F;span&gt;bin&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;&#x2F;&lt;&#x2F;span&gt;toolbox run syncthing serve &lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;-&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;-&lt;&#x2F;span&gt;no&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;-&lt;&#x2F;span&gt;browser &lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;-&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;-&lt;&#x2F;span&gt;logfile&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;default
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-meta z-param z-genconfig&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-genconfig&quot;&gt;Icon&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;syncthing
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-meta z-param z-genconfig&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-genconfig&quot;&gt;Terminal&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-language z-genconfig&quot;&gt;false&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-meta z-param z-genconfig&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-genconfig&quot;&gt;Type&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;Application
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-meta z-param z-genconfig&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-genconfig&quot;&gt;Keywords&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;synchronization;daemon;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-genconfig&quot;&gt;&lt;span class=&quot;z-meta z-param z-genconfig&quot;&gt;&lt;span class=&quot;z-variable z-parameter z-genconfig&quot;&gt;Categories&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-genconfig&quot;&gt;=&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;Network;FileTransfer;&lt;span class=&quot;z-support z-constant z-genconfig&quot;&gt;P2P&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;syncthing-in-toolbx&#x2F;syncthing-web-ui.png&quot; alt=&quot;Syncthing web UI.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;It’s available at &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;127.0.0.1:8384&quot;&gt;http:&#x2F;&#x2F;127.0.0.1:8384&lt;&#x2F;a&gt; just like on normal installation.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;By the way, turns out that &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;containertoolbx.org&quot;&gt;Toolbx website&lt;&#x2F;a&gt; got a refresh, and it looks really nice, check it out.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>黑百合 | Home - 网站 更新 日志</title>
+    <subtitle>主要关注技术，读书，工具分享等方向.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://widowmaker2025.github.io/websitelog/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/websitelog/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-07-23T22:43:35+00:00</updated>
+    <id>https://widowmaker2025.github.io/websitelog/atom.xml</id>
+    <entry xml:lang="en">
+        <title>First Post</title>
+        <published>2025-07-23T22:43:35+00:00</published>
+        <updated>2025-07-23T22:43:35+00:00</updated>
+        
+        <author>
+          <name>
+            
+              widowmaker2025
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://widowmaker2025.github.io/websitelog/beta-version/"/>
+        <id>https://widowmaker2025.github.io/websitelog/beta-version/</id>
+        
+        <content type="html" xml:base="https://widowmaker2025.github.io/websitelog/beta-version/">&lt;p&gt;网站基础版本 搭建完成&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;nanolog 日志类 , blog 博客类 搞定 ;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;待完成: 网站流量分析  可选功能 ;  建议增加:  评论功能&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;网站的 主题更新 的 思路 需要 添加 ,  以及 在 其他 的 主题中 进行摘录出来&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;网站 设计思路 分析;&lt;&#x2F;p&gt;
+&lt;p&gt;图标资源库 走 : 嵌套子模块 : https:&#x2F;&#x2F;github.com&#x2F;phosphor-icons&#x2F;homepage  和&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>黑百合 | Home - Nanolog</title>
+      <link>https://widowmaker2025.github.io/nanolog/</link>
+      <description>主要关注技术，读书，工具分享等方向.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://widowmaker2025.github.io/nanolog/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 18 Jul 2025 15:28:28 +0000</lastBuildDate>
+      <item>
+          <title>Reading My Blog Be Like</title>
+          <pubDate>Fri, 18 Jul 2025 15:28:28 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/reading-my-blog-be-like/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/reading-my-blog-be-like/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/reading-my-blog-be-like/">&lt;iframe
+	class=&quot;youtube-embed&quot;
+	src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;gJ9mxF7gY8E&quot;
+	allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot;
+	referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;
+&lt;&#x2F;iframe&gt;
+</description>
+      </item>
+      <item>
+          <title>We&#x27;re Open Again</title>
+          <pubDate>Sat, 24 May 2025 13:03:29 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/we-re-open-again/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/we-re-open-again/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/we-re-open-again/">&lt;p&gt;As I said in one of the previous nanoposts my website source code has been made private due to reasons, go read it I’m not writing it all again. Baically I said “fuck it” and open sourced right now, it’s under &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;daudix&#x2F;daudix.one&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;daudix&#x2F;daudix.one&lt;&#x2F;a&gt;. yay.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>On Source Code</title>
+          <pubDate>Thu, 15 May 2025 01:27:40 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/on-source-code/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/on-source-code/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/on-source-code/">&lt;p&gt;Forgot to mention, site’s source code has been, well, nuked. Codeberg &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;blog.codeberg.org&#x2F;new-storage-limits-on-codeberg-what-you-need-to-know.html&quot;&gt;introduced&lt;&#x2F;a&gt; new repo size limits, basically personal repos that don’t really benefit anyone will be limited to just 100MB, and since mine weights twice as much, I had to move it somewhere else, aka private GitHub repo. It’ll be the case until I figure things out, but yeah, I didn’t want to risc it since the Codeberg changes will take effect starting tomorrow.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;small&gt;I know I said this on Discord and Bluesky already, but it’s a pretty important change so an entry in nanolog wouldn’t hurt.&lt;&#x2F;small&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Ametrine Era</title>
+          <pubDate>Thu, 15 May 2025 01:20:43 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/ametrine-era/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/ametrine-era/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/ametrine-era/">&lt;p&gt;Alright so, I have finally deployed the new daudix.one based on &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ametrine.daudix.one&quot;&gt;Ametrine&lt;&#x2F;a&gt;, which is a work of the last 4 months, longest of course was the work on Ametrine itself. Content changed a bit, but no drastic changes so far, but there are exciting updates on their way, such as &#x2F;blog&#x2F; content rewamp. uyiiii i’m so excited x33&lt;&#x2F;p&gt;
+&lt;p&gt;Make sure to check out the new &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;badges&#x2F;&quot;&gt;badges&lt;&#x2F;a&gt; page btw&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Sunday Gorton</title>
+          <pubDate>Sun, 11 May 2025 18:47:02 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/sunday-gorton/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/sunday-gorton/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/sunday-gorton/">&lt;p&gt;Today is one of those days when you go down some random rabbit hole, this time it’s about fonts and icons.&lt;&#x2F;p&gt;
+&lt;p&gt;First, I found an amazing font called &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;departuremono.com&quot;&gt;Departure Mono&lt;&#x2F;a&gt; made by the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;phosphoricons.com&quot;&gt;Phosphor Icons&lt;&#x2F;a&gt; creator; &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.helenazhang.com&quot;&gt;Helena&lt;&#x2F;a&gt;. Not only the font itself is gorgerous, the site itself is spectacular too, which is no surprise considering it’s made by the same person that made Phosphor Icons website; &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;tobiasfried.com&quot;&gt;Tobias&lt;&#x2F;a&gt;. Why am I naming the creators and providing links? because that’s part of the journey!&lt;&#x2F;p&gt;
+&lt;p&gt;Next up I came across &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;aresluna.org&#x2F;the-hardest-working-font-in-manhattan&#x2F;&quot;&gt;the hardest working font in Manhattan&lt;&#x2F;a&gt;, and it’s been a great read with lots of beautiful photos, check them out even if you don’t plan on reading the whole thing, even though I heavily recommend doing so.&lt;&#x2F;p&gt;
+&lt;p&gt;Lastly, I came across &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;nucleoapp.com&#x2F;micro-bold-icons&quot;&gt;Micro Bold Icons&lt;&#x2F;a&gt; mentioned on one of Helena’s posts about &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;minoraxis.medium.com&#x2F;best-new-icons-of-2024-4d54726e3f86&quot;&gt;best new icons of 2024&lt;&#x2F;a&gt;. It’s such a great icon library and it’s exactly what I needed for &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ametrine.daudix.one&quot;&gt;Ametrine&lt;&#x2F;a&gt;, however it’s paid, so I’ll continue using Phosphor Icons, they’re great too.&lt;&#x2F;p&gt;
+&lt;p&gt;And after writing the above chunk of text, I’ve read &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;grantslatton.com&#x2F;nobody-cares&quot;&gt;nobody cares&lt;&#x2F;a&gt;, I forgot how I came across it, but yeah, it really does suck that many people really just don’t care :&amp;lt;&lt;&#x2F;p&gt;
+&lt;p&gt;P.S. What’s funny about this entire journey is that it all started with me looking up “more” icons on Phosphor Icons website XD&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Git Push</title>
+          <pubDate>Sun, 09 Mar 2025 00:13:43 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/git-push/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/git-push/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/git-push/">&lt;p&gt;Testing something out, if everything works this post should be created and pushed to the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;daudix&#x2F;daudix.one&quot;&gt;website&lt;&#x2F;a&gt; repo automatically by the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;daudix&#x2F;nanolog&quot;&gt;nanolog&lt;&#x2F;a&gt; tool.&lt;&#x2F;p&gt;
+&lt;p&gt;Or it’ll nuke the entire repo, idk.&lt;&#x2F;p&gt;
+&lt;p&gt;[7 edits omitted]&lt;br &#x2F;&gt;
+Edit #7: Turned out I was using an old version of the script and didn’t properly export the GIT_DIR variable, hopefully it’ll work now.&lt;br &#x2F;&gt;
+Edit #8: I hate Git so so much.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>I&#x27;m Alive</title>
+          <pubDate>Sat, 22 Feb 2025 02:25:54 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/i-m-alive/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/i-m-alive/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/i-m-alive/">&lt;p&gt;So uh yeah, I kinda forgot about this thing for a month, sorry. This month I’ve been working hard on &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ametrine.daudix.one&quot;&gt;Ametrine&lt;&#x2F;a&gt;, participated in &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;highseas.hackclub.com&quot;&gt;HighSeas&lt;&#x2F;a&gt; and won some prizes, and… that’s about it. I plan on writing about HighSeas once I get (or don’t) said prizes, and plan on porting this site to Ametrine and releasing its first alpha before the end of the month. Oh and yesterday I caught flu, yay.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Nanolog CLI</title>
+          <pubDate>Tue, 21 Jan 2025 00:49:42 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/nanolog-cli/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/nanolog-cli/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/nanolog-cli/">&lt;p&gt;Alright, I’ve been putting this post away for three days, for no reason, so yeah here we go.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ve made a CLI &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;daudix&#x2F;Nanolog&quot;&gt;tool&lt;&#x2F;a&gt; for posting nanoposts (nanolog posts?) with &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;charmbracelet&#x2F;gum&quot;&gt;Gum&lt;&#x2F;a&gt; for UI, and it’s basically just a bash script. I’ve got the idea of using Gum from Sam while they were working on &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Icycoide&#x2F;Gir&quot;&gt;Gir&lt;&#x2F;a&gt; (very swag tool btw check it out). The idea is to make nanoposting easier and faster, thus reduce my Mastodon usage, thus having more control over my posts or something, I’ll write a post about this sometime.&lt;&#x2F;p&gt;
+&lt;p&gt;Anyhow, this post was written entirely from terminal using said tool; a bit tricky without spellchecking and having the edit area 6 line high, but could be worse. It doesn’t really make the process significantly faster, but why not make stuff more painful for no reason.&lt;&#x2F;p&gt;
+&lt;p&gt;Now that this post is written I can finally nanopost something else, as it was stopping me from doing so.&lt;&#x2F;p&gt;
+&lt;p&gt;P.S. Here’s a short demo:&lt;&#x2F;p&gt;
+&lt;video class=&quot;&quot; src=&quot;&amp;#x2F;nanolog&amp;#x2F;nanolog-cli&amp;#x2F;demo.webm&quot;aria-title=&quot;Demo of Nanolog&amp;#x27;s functionality&quot;controls&gt;&lt;&#x2F;video&gt;
+</description>
+      </item>
+      <item>
+          <title>Defibrillate About</title>
+          <pubDate>Fri, 10 Jan 2025 02:49:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/defibrillate-about/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/defibrillate-about/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/defibrillate-about/">&lt;p&gt;Once again I’ve sat down to write a blog post and ended up doing completely unrelated things. This time I have shortened homepage by moving unnecessary info to about page, which I have got rid of a while ago, and redesigned the works section (that window with rainbow text is now on about page). Design is pretty heavily inspired by &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;volpeon.ink&quot;&gt;Volpeon’s&lt;&#x2F;a&gt; site, but also it’s very different so I guess it’s fine.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Navigation Sidebar</title>
+          <pubDate>Sun, 29 Dec 2024 00:27:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/navigation-sidebar/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/navigation-sidebar/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/navigation-sidebar/">&lt;p&gt;So, there’s this thing I’ve been working on for five days straight: Navigation sidebar!&lt;&#x2F;p&gt;
+&lt;p&gt;That’s right, I have finally fixed site’s navigation. The thing that was used for a short period of time before this was honestly pretty pad; to go somewhere you had to open the burger menu and then click, it covered content on mobile, and some links were in the footer (for some reason?). Now it’s all neatly placed in a sidebar, with categories, icons, all that stuff. It was surprisingly hard to implement, not the sidebar itself, no no, fixing all the stuff that relied on screen width such as post banners; I had to use some modern CSS features such as &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;developer.mozilla.org&#x2F;en-US&#x2F;docs&#x2F;Web&#x2F;CSS&#x2F;CSS_containment&#x2F;Container_queries&quot;&gt;container queries&lt;&#x2F;a&gt; as it wasn’t possible to fix them otherwise. I have also burnt down the “Rizz it Up” button on home page, it had to be done anyway.&lt;&#x2F;p&gt;
+&lt;p&gt;While at it I have also redesigned the footer, moved post buttons such as “Table of Contents” and “Share” over to header, and on pages that have an Atom feed it displays button to subscribe to it. The title in heading acts as “Go to Top” button, minor detail but pretty useful at times.&lt;&#x2F;p&gt;
+&lt;p&gt;There’s still a lot of stuff to clean up and simplify, but whatever I have at hand already is times better than what was before. I’m particularly not happy with the search bar taking a lot of space, and search results being very narrow.&lt;&#x2F;p&gt;
+&lt;p&gt;Even thought sidebar is not a new concept, it’s worth noting that I got the idea to implement it by first looking at old &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;v1.volpeon.ink&quot;&gt;Volpeon’s&lt;&#x2F;a&gt; site, and was then convinced by looking at &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pebble.pet&quot;&gt;Pebble’s site&lt;&#x2F;a&gt; (both look spectacular by the way).&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Auto Contrast</title>
+          <pubDate>Mon, 23 Dec 2024 07:25:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/auto-contrast/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/auto-contrast/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/auto-contrast/">&lt;p&gt;Feature that I’ve been wanting to implement for a while; automatic contrast color picked from the accent color. I’ve tried adding it earlier but it didn’t work for some reason, likely because I’m a moron, but in any case now I don’t have to set the contrast color manually. I will backport this to Duckquill along with other changes later today (I hope so at least). Thanks &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;lea.verou.me&#x2F;blog&#x2F;2024&#x2F;contrast-color&#x2F;&quot;&gt;Lea Verou&lt;&#x2F;a&gt; for this neat trick. One thing I changed about it is made it use slight transparency if the contrast color is black, so it doesn’t look too ugly. The code is as follows:&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;scss&quot; class=&quot;language-scss z-code&quot;&gt;&lt;code class=&quot;language-scss&quot; data-lang=&quot;scss&quot;&gt;&lt;span class=&quot;z-source z-scss&quot;&gt;&lt;span class=&quot;z-meta z-property-name z-css&quot;&gt;&lt;span class=&quot;z-support z-type z-custom-property z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-custom-property z-css&quot;&gt;--&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-name z-css&quot;&gt;l&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-key-value z-css&quot;&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-property-value z-css&quot;&gt; &lt;span class=&quot;z-meta z-function-call z-css&quot;&gt;&lt;span class=&quot;z-support z-function z-sass&quot;&gt;clamp&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-css&quot;&gt;0&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-sequence z-css&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-string z-unquoted z-css&quot;&gt;l&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-sass&quot;&gt;&#x2F;&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-css&quot;&gt;0&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-float z-decimal z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-separator z-decimal z-css&quot;&gt;.&lt;&#x2F;span&gt;623&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-sass&quot;&gt;-&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-css&quot;&gt;1&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-css&quot;&gt;*&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-sass&quot;&gt;-&lt;&#x2F;span&gt;&lt;span class=&quot;z-string z-unquoted z-css&quot;&gt;infinity&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-sequence z-css&quot;&gt;,&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-css&quot;&gt;1&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rule z-css&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-scss&quot;&gt;&lt;span class=&quot;z-meta z-property-name z-css&quot;&gt;&lt;span class=&quot;z-support z-type z-custom-property z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-custom-property z-css&quot;&gt;--&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-name z-css&quot;&gt;a&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-key-value z-css&quot;&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-property-value z-css&quot;&gt; &lt;span class=&quot;z-meta z-function-call z-css&quot;&gt;&lt;span class=&quot;z-support z-function z-calc z-css&quot;&gt;calc&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-css&quot;&gt;&lt;span class=&quot;z-support z-function z-var z-css&quot;&gt;var&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-custom-property z-css&quot;&gt;--&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-name z-css&quot;&gt;l&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-css&quot;&gt;+&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-function-call z-css&quot;&gt;&lt;span class=&quot;z-support z-function z-var z-css&quot;&gt;var&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-custom-property z-css&quot;&gt;--&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-name z-css&quot;&gt;dim-opacity&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-css&quot;&gt;*&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-constant z-numeric z-css&quot;&gt;1&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-css&quot;&gt;-&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-function-call z-css&quot;&gt;&lt;span class=&quot;z-support z-function z-var z-css&quot;&gt;var&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-custom-property z-css&quot;&gt;--&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-name z-css&quot;&gt;l&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rule z-css&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;span class=&quot;z-source z-scss&quot;&gt;&lt;span class=&quot;z-meta z-property-name z-css&quot;&gt;&lt;span class=&quot;z-support z-type z-custom-property z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-custom-property z-css&quot;&gt;--&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-name z-css&quot;&gt;contrast-color&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-separator z-key-value z-css&quot;&gt;:&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-property-value z-css&quot;&gt; &lt;span class=&quot;z-meta z-function-call z-css&quot;&gt;&lt;span class=&quot;z-support z-function z-sass&quot;&gt;oklch&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-meta z-function-call z-arguments z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-keyword z-operator z-sass&quot;&gt;from&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-function-call z-css&quot;&gt;&lt;span class=&quot;z-support z-function z-var z-css&quot;&gt;var&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-custom-property z-css&quot;&gt;--&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-name z-css&quot;&gt;accent-color&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-function-call z-css&quot;&gt;&lt;span class=&quot;z-support z-function z-var z-css&quot;&gt;var&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-custom-property z-css&quot;&gt;--&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-name z-css&quot;&gt;l&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt; &lt;span class=&quot;z-constant z-numeric z-integer z-decimal z-css&quot;&gt;0&lt;&#x2F;span&gt; &lt;span class=&quot;z-string z-unquoted z-css&quot;&gt;h&lt;&#x2F;span&gt; &lt;span class=&quot;z-keyword z-operator z-sass&quot;&gt;&#x2F;&lt;&#x2F;span&gt; &lt;span class=&quot;z-meta z-function-call z-css&quot;&gt;&lt;span class=&quot;z-support z-function z-var z-css&quot;&gt;var&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-begin z-css&quot;&gt;(&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-custom-property z-css&quot;&gt;--&lt;&#x2F;span&gt;&lt;span class=&quot;z-support z-type z-custom-property z-name z-css&quot;&gt;a&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-meta z-group z-css&quot;&gt;&lt;span class=&quot;z-punctuation z-definition z-group z-end z-css&quot;&gt;)&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;&#x2F;span&gt;&lt;span class=&quot;z-punctuation z-terminator z-rule z-css&quot;&gt;;&lt;&#x2F;span&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</description>
+      </item>
+      <item>
+          <title>Proper Categories</title>
+          <pubDate>Fri, 20 Dec 2024 23:03:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/proper-categories/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/proper-categories/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/proper-categories/">&lt;p&gt;I’ve finally finished working on the categories feature, and if you’re reading this it means it’s already deployed. Not that it was difficult in terms of coding, but it was a bit tricky in terms of design, plus it was unclear how to integrate it properly.&lt;&#x2F;p&gt;
+&lt;p&gt;Basically I had some sort of categorization using tags and “post types” such as “Featured” and “Hot”, and while it sounds okay on the surface, it really wasn’t that good; there were no way to filter posts by their type, and the styling was a bit over the top and rather distracting.&lt;&#x2F;p&gt;
+&lt;p&gt;So, to address these issues, I have added &lt;a href=&quot;..&#x2F;categories&#x2F;&quot;&gt;categories&lt;&#x2F;a&gt; page. Under the hood it uses the same logic as tags, but my plan is to use only one category per post. I have also added feed links next to headings, so that you can subscribe to, I don’t know, “Archived” category and get ancient posts only, or subscribe to “Devlog” tag to get my site updates, you got the idea.&lt;&#x2F;p&gt;
+&lt;p&gt;I like how I managed to reuse existing styling from post list for the categories index page, and it wasn’t really my plan; I initially wanted it to use a unique and interesting style, but I just couldn’t come up with anything so I reused existing design (which I stole from &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;fuwari.vercel.app&#x2F;&quot;&gt;Fuwari&lt;&#x2F;a&gt;).&lt;&#x2F;p&gt;
+&lt;p&gt;What’s now left to finalize the categorization overhaul is redesign the “Tags” page, but right now I’m not sure how it should look like.&lt;&#x2F;p&gt;
+&lt;p&gt;P.S. This particular nanopost is a bit lengthy huh…&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>First Comic</title>
+          <pubDate>Sun, 01 Dec 2024 22:25:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/first-comic/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/first-comic/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/first-comic/">&lt;p&gt;Yesterday I’ve &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pleroma.envs.net&#x2F;notice&#x2F;AobomUGxyXvePnkg9g&quot;&gt;drawn my first comic&lt;&#x2F;a&gt; (as per &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;pleroma.envs.net&#x2F;notice&#x2F;AoaCZtXCka6laBxJRI&quot;&gt;this&lt;&#x2F;a&gt; poll). The drawing is this shitty on purpose, if I wanted to I could do better ;)&lt;&#x2F;p&gt;
+&lt;p&gt;Honestly I kinda liked doing it, might do it some more.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;pleroma.envs.net&#x2F;media&#x2F;bb309e256f39f6d6a0f1872c33165eb93f138163ad2f140000842d505923fc29.png&quot; alt=&quot;A comic panel. On first panel there’s digital clock with the time 09:30, behind it there’s a window with sun and a cloud. On second panel there’s a square guy with a very tired face and text “Literally half-dead”. On third panel there’s the same clock and window, but time is 01:00. On fourth panel there’s the same guy but with excited face and text “Never felt more alive”.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Writing Bankruptcy</title>
+          <pubDate>Wed, 27 Nov 2024 17:45:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/writing-bankruptcy/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/writing-bankruptcy/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/writing-bankruptcy/">&lt;p&gt;&lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mastodon.social&#x2F;@Edent&#x2F;113555727215153955&quot;&gt;Writing bankruptcy&lt;&#x2F;a&gt; is such a brilliant line; it perfectly describes the current state of &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;&quot;&gt;Progressive Enhancement&lt;&#x2F;a&gt;. Um, yes that’s all, just wanted to share my new favorite line.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Content Duplication</title>
+          <pubDate>Sat, 23 Nov 2024 18:20:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/content-duplication/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/content-duplication/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/content-duplication/">&lt;p&gt;You know, I want to make the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;daudix.neocities.org&quot;&gt;Neocities site&lt;&#x2F;a&gt; its own thing; with different content, style, &lt;em&gt;vibe&lt;&#x2F;em&gt;, and whatnot, but in order for it to be somewhat useful, I have to duplicate content from this site, which is like the opposite of my goal . Of course I could just link to this site, but then, what’s the point of having an alt site in the first place? It’s so annoying (just like I am).&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Overhauling Neocities</title>
+          <pubDate>Sun, 17 Nov 2024 01:37:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/overhauling-neocities/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/overhauling-neocities/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/overhauling-neocities/">&lt;p&gt;Guess who’s writing this at 4AM.&lt;&#x2F;p&gt;
+&lt;p&gt;I’ve started porting my &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;daudix.neocities.org&quot;&gt;Neocities site&lt;&#x2F;a&gt; to &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&quot;&gt;Zola&lt;&#x2F;a&gt;; it works already (it took me like 5min), but it’ll take much more time to make it actually clean and pleasant to use, as right now it’s a hot mess of ugly HTML and confusing CSS. I have some grand (not actually) plans for it, so yeah, stay tuned.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Bye Stamps</title>
+          <pubDate>Sat, 16 Nov 2024 13:34:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/bye-stamps/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/bye-stamps/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/bye-stamps/">&lt;p&gt;Lately my site has grew in site quite a bit; I &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;nanolog&#x2F;geist-font&#x2F;&quot;&gt;switched&lt;&#x2F;a&gt; to a custom web font, added some Gir stamps, and such. This made the site weight around 1MB, which isn’t a lot, but twice the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;512kb.club&quot;&gt;512KB limit&lt;&#x2F;a&gt;, so I’ve made a tough decision and axed all the stamps and renamed the section on the homepage from “Bumps” to “Badges”. Sad, but I won’t get id of them entirely; I plan to move them to &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;spacehey.com&#x2F;daudix&quot;&gt;my spacehey&lt;&#x2F;a&gt; (somehow, idk), feel free to friend me there btw.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Xip&#x27;s Picolog</title>
+          <pubDate>Fri, 15 Nov 2024 23:56:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/xips-picolog/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/xips-picolog/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/xips-picolog/">&lt;p&gt;A buddy of mine has added a &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;xip.neocities.org&#x2F;picolog&#x2F;&quot;&gt;picolog&lt;&#x2F;a&gt; to his website, which is like a nanolog, but smaller, which is a microblog, but smaller, which is a blog, but smaller… Sorry I got carried away. It’s pretty fun to see the *log minification spread . And yeah we got custom emojis now . &lt;em&gt;Aaaaa&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Geist Font</title>
+          <pubDate>Wed, 13 Nov 2024 23:52:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/geist-font/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/geist-font/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/geist-font/">&lt;p&gt;Switched this whole thing to a custom webfont instead of using whatever user’s system provides. I mean system fonts are neat and all, but it’s hard to maintain a consistent design considering that every OS and distro and user configuration uses different fonts. My choice was initially one of my favorite fonts, Inter, but it was too wide to my taste and I wanted something more condensed and &lt;em&gt;cute&lt;&#x2F;em&gt;. &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;cantarell.gnome.org&quot;&gt;Cantarell&lt;&#x2F;a&gt; fits this bill but it’s unmaintained; even GNOME &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gitlab.gnome.org&#x2F;Teams&#x2F;Design&#x2F;initiatives&#x2F;-&#x2F;issues&#x2F;152&quot;&gt;plans to switch away from it&lt;&#x2F;a&gt;. I then remembered about Vercel’s &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;vercel.com&#x2F;font&quot;&gt;Geist&lt;&#x2F;a&gt; family and thought why not give it a shot. And oh boy, it fits perfectly; it looks like something in between Cantarell and Inter, plus they provide both sans and mono variants which means they perfectly fit together. It’s also pretty compact; Geist Sans weights only &lt;code&gt;64kB&lt;&#x2F;code&gt;, while Inter is &lt;code&gt;345kB&lt;&#x2F;code&gt;. So yeah, I’m happy, although I have to toss away some more 88x31 buttons and stamps to fit the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;512kb.club&quot;&gt;512kb limit&lt;&#x2F;a&gt; again…&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Material You</title>
+          <pubDate>Sun, 10 Nov 2024 22:15:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/material-you/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/material-you/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/material-you/">&lt;p&gt;Implemented a feature I’ve been thinking for a while now; all posts that have a banner now use color picked from it as their accent instead of site’s default, and post cards in the article list are colored as well. Looks pretty neat IMO. Oh and yeah I’m writing this at 1AM again, borked sleep schedule and stuff.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Bye Skeuo</title>
+          <pubDate>Sat, 09 Nov 2024 21:42:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/bye-skeuo/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/bye-skeuo/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/bye-skeuo/">&lt;p&gt;Today I’ve tried to fix the &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;coffee&#x2F;&quot;&gt;coffee page&lt;&#x2F;a&gt; styling after the recent refactoring, and I’ve realized that I really don’t want to mess with all these broken hacky styles, so I’ve just &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;daudix&#x2F;daudix.one&#x2F;commit&#x2F;61ada77f5c83bac4161d8f640c2779f2a6a27860&quot;&gt;got rid of it&lt;&#x2F;a&gt;. Sadge. It might come back in slightly different form later on, but not now.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Broken Feed</title>
+          <pubDate>Fri, 08 Nov 2024 01:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/broken-feed/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/broken-feed/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/broken-feed/">&lt;p&gt;Turned out Zola generates the feed for all sections if &lt;code&gt;generate_feeds&lt;&#x2F;code&gt; is set in the config and not per section, so I had to split it to separate feeds for the blog and this nanolog, which will require everyone to update it in their feed reader. Damn. Oh and yeah I renamed this thing back to nanolog since it sounds cooler.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>First Post</title>
+          <pubDate>Thu, 07 Nov 2024 22:43:35 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/nanolog/first-post/</link>
+          <guid>https://widowmaker2025.github.io/nanolog/first-post/</guid>
+          <description xml:base="https://widowmaker2025.github.io/nanolog/first-post/">&lt;p&gt;This is a first post in this microblog that is inspired by &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;getimiskon.xyz&#x2F;microblog.html&quot;&gt;gettie’s&lt;&#x2F;a&gt;; it’s kinda like a blog, but smaller. I will (or not) write some posts here that don’t exactly deserve their own blog post with a banner and such.&lt;&#x2F;p&gt;
+&lt;p&gt;Oh and these posts need no front matter at all, only date in the file name and a title, which isn’t seen anywhere&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

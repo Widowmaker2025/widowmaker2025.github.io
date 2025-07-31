@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>黑百合 | Home - Neocities</title>
+      <link>https://widowmaker2025.github.io/</link>
+      <description>主要关注技术，读书，工具分享等方向.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://widowmaker2025.github.io/tags/neocities/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 22 Jun 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Rewriting My Neocities Website Was Fun!</title>
+          <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/rewriting-neocities-website/</link>
+          <guid>https://widowmaker2025.github.io/blog/rewriting-neocities-website/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/rewriting-neocities-website/">&lt;blockquote&gt;
+&lt;p&gt;This is my first &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;100daystooffload.com&quot;&gt;#100DaysToOffload&lt;&#x2F;a&gt; post; what this means is that I’ll post more and about more diverse stuff. My drafts folder are nearly exploding so it’s about time! A dedicated post about this will be published soon (hopefully &lt;em&gt;nervous giggling&lt;&#x2F;em&gt;).&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote class=&quot;markdown-alert-edit&quot;&gt;
+	&lt;p&gt;It’s been &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;100-days-to-offload&#x2F;&quot;&gt;published&lt;&#x2F;a&gt; (4 days later and not in half a year!).&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote class=&quot;markdown-alert-edit&quot;&gt;
+	&lt;p&gt;This post has been &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;zine.exozy.me&#x2F;posts&#x2F;2024&#x2F;june-2024&#x2F;#website-rewriting-adventures&quot;&gt;featured in exozyine&lt;&#x2F;a&gt;!&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;As you might know, &lt;a href=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;site-and-blog-devlog&#x2F;&quot;&gt;almost a year ago&lt;&#x2F;a&gt; I got a website on &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;neocities.org&quot;&gt;Neocities&lt;&#x2F;a&gt;: the modern-age &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;GeoCities&quot;&gt;Geocities&lt;&#x2F;a&gt; with not so modern personal websites. I always liked the idea of having website there, but never actually got my hands on it… until now, woo-hoo!&lt;&#x2F;p&gt;
+&lt;p&gt;On the 31st of May I started rewriting it. 4 days later, it seems to be better than what it was in every aspect, so I decided to write this post sharing some insights on how it was done ^_^&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;website-before.png&quot; alt=&quot;Website before.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;The pre-rewrite state; boring and sad&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;All started by copy-pasting &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;goblin-heart.net&#x2F;sadgrl&#x2F;&quot;&gt;sadgrl&lt;&#x2F;a&gt;’s &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codepen.io&#x2F;sadness97&#x2F;pen&#x2F;mdXjExq&quot;&gt;Simple Skinny 00s&lt;&#x2F;a&gt; layout, since I &lt;em&gt;suck&lt;&#x2F;em&gt; at this. The layout seemed perfect so I started tweaking it. After stealing the button shading styles from DeviantArt and getting this nice background from the same sadgrl’s website, I had this:&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;first-steps.png&quot; alt=&quot;First steps.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;First steps; empty and sad&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Fast-forward a few hours, I had some very basic thingy going!&lt;&#x2F;p&gt;
+&lt;p&gt;The icons are from &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Tango_Desktop_Project&quot;&gt;Tango&lt;&#x2F;a&gt;, an icon theme that had it’s last release 15 years ago, back in 2009. Project’s website is down, but download link still works somehow: &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;http:&#x2F;&#x2F;tango.freedesktop.org&#x2F;releases&#x2F;tango-icon-theme-0.8.90.tar.bz2&quot;&gt;http:&#x2F;&#x2F;tango.freedesktop.org&#x2F;releases&#x2F;tango-icon-theme-0.8.90.tar.bz2&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;video alt=&quot;First demo.&quot; controls src=&quot;first-demo.webm&quot;&gt;&lt;&#x2F;video&gt;
+&lt;figcaption&gt;First demo; navbar got icons and footer was added&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;See that footer? yes, it uses a deprecated marquee HTML element, it’s just too good to &lt;em&gt;not&lt;&#x2F;em&gt; be used. I even &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;vmst.io&#x2F;@daudix&#x2F;112532737670738850&quot;&gt;posted about it&lt;&#x2F;a&gt; on Mastodon.&lt;&#x2F;p&gt;
+&lt;iframe
+	class=&quot;mastodon-embed&quot;
+	src=&quot;https:&#x2F;&#x2F;vmst.io&#x2F;@daudix&#x2F;112532737670738850&#x2F;embed&quot;&gt;
+&lt;&#x2F;iframe&gt;
+&lt;p&gt;At this point it was 4:00 AM and I had to go sleep 0_0&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;chat-forces-me-to-sleep.png&quot; alt=&quot;Chat forces me to sleep.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Group chat forces me to go sleep&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Yeah, I enjoyed the rewrite a bit too much.&lt;&#x2F;p&gt;
+&lt;p&gt;Aaanyway, the next day I added the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.cbox.ws&quot;&gt;cbox&lt;&#x2F;a&gt; chat, polished the footer, and &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;vmst.io&#x2F;@daudix&#x2F;112533590357822496&quot;&gt;teased it&lt;&#x2F;a&gt; to my Mastodon followers.&lt;&#x2F;p&gt;
+&lt;iframe
+	class=&quot;mastodon-embed&quot;
+	src=&quot;https:&#x2F;&#x2F;vmst.io&#x2F;@daudix&#x2F;112533590357822496&#x2F;embed&quot;&gt;
+&lt;&#x2F;iframe&gt;
+&lt;p&gt;About chat box: cbox doesn’t allow adding custom CSS in the free plan, so I couldn’t add the text shadow for the carved text effect, what I did is applied a &lt;code&gt;drop-shadow()&lt;&#x2F;code&gt; filter to the whole &lt;code&gt;&amp;lt;iframe&amp;gt;&lt;&#x2F;code&gt; which did the job.&lt;&#x2F;p&gt;
+&lt;p&gt;Then I added a fake music player to the top-right corner (which was an absolute pain to create, I could’ve used CSS grid to avoid all the alignment issues, but it’s just confusing so I settled on this hacky unresponsive mess), further polished the design, fixed the mobile version, removed the ability to move and resize the chat box (it was buggy and quite useless), and drawn a favicon and a bookmark inspired by one on the &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20131126002716&#x2F;http:&#x2F;&#x2F;www.deviantart.com&#x2F;&quot;&gt;old DeviantArt&lt;&#x2F;a&gt;. In fact, a lot of things were inspired by DeviantArt of 2010’s&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;fake-player.png&quot; alt=&quot;Fake player.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Fake music player with some brony music&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Mobile&lt;&#x2F;th&gt;&lt;th&gt;Tablet&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;website-on-mobile.png&quot; alt=&quot;Website on mobile.&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;website-on-tablet.png&quot; alt=&quot;Website on tablet.&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;blockquote class=&quot;markdown-alert-fact&quot;&gt;
+	&lt;p&gt;The music player initially displayed &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@princewhateverer&quot;&gt;PrinceWhateverer&lt;&#x2F;a&gt;’s &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=r0P67hLrFHI&quot;&gt;Miscommunication&lt;&#x2F;a&gt; as it’s very relatable, but since I aimed for the 2010’s vibe, I decided to change it to &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@WoodenToaster&quot;&gt;WoodenToaster&lt;&#x2F;a&gt;’s &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=YRx_iXgLAyw&quot;&gt;Rainbow Factory&lt;&#x2F;a&gt; since it was released in 2011 and were quite popular back then.&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;DeviantArt&lt;&#x2F;th&gt;&lt;th&gt;Mine&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;bookmark-deviantart.png&quot; alt=&quot;Bookmark deviantart.&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;td&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;bookmark-mine.png&quot; alt=&quot;Bookmark mine.&quot; &#x2F;&gt;&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;blockquote class=&quot;markdown-alert-fact&quot;&gt;
+	&lt;p&gt;Initially the bookmark said “Work In Process”, but I realised that it won’t exit this state anytime soon, so it were changed to “Forever WIP”&lt;&#x2F;p&gt;
+
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;And that’s about it! there’s one issue that bothers me, the footer; it’s absolute positioned relatively to the “paper” and it overlays on top of the scrollbar, which is meh.&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;broken-scrollbar.png&quot; alt=&quot;Broken scrollbar.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Footer&#x27;s opacity is changed for demo purposes&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;One more thing I want to mention is &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;neocities.org&#x2F;cli&quot;&gt;Neocities CLI&lt;&#x2F;a&gt;. If you have ever used Neocities you know the pain of upload files to it via the web interface, it does provide &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;neocities.org&#x2F;site_files&#x2F;mount_info&quot;&gt;WebDAV mount&lt;&#x2F;a&gt; for supporters, BUT there’s another way, the official CLI tool!&lt;&#x2F;p&gt;
+&lt;p&gt;It allows pushing local files or whole directories directly to your Neocities website, it’s distributed as a Ruby gem but it works just fine.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;Seriously, this thing saved my nerves.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;neocities-cli-help.png&quot; alt=&quot;Neocities CLI help.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Help page; love the humor&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;neocities-cli-pushing.png&quot; alt=&quot;Neocities CLI pushing.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;figcaption&gt;Pusing local directory to Neocities with deletion of files not present locally&lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Thanks for reading! Visit the website &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;daudix.neocities.org&quot;&gt;here&lt;&#x2F;a&gt; and feel free to drop something in the chat box ;)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;widowmaker2025.github.io&#x2F;blog&#x2F;rewriting-neocities-website&#x2F;website-after.png&quot; alt=&quot;Website after.&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

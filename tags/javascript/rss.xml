@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>黑百合 | Home - JavaScript</title>
+      <link>https://widowmaker2025.github.io/</link>
+      <description>主要关注技术，读书，工具分享等方向.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://widowmaker2025.github.io/tags/javascript/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 06 Feb 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Auto and Manual Dark Mode Switching Is a Pain</title>
+          <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+          <author>widowmaker2025</author>
+          <link>https://widowmaker2025.github.io/blog/auto-and-manual-dark-themes-are-pain/</link>
+          <guid>https://widowmaker2025.github.io/blog/auto-and-manual-dark-themes-are-pain/</guid>
+          <description xml:base="https://widowmaker2025.github.io/blog/auto-and-manual-dark-themes-are-pain/">&lt;blockquote class=&quot;markdown-alert-note&quot;&gt;
+&lt;p&gt;&lt;del&gt;This is a post in a new format called “microblog”, not quite a Mastodon post nor a full-blown blog post, you got the idea :)&lt;&#x2F;del&gt;
+Changed my mind, blog (even small) is here, microblog is on Fediverse, no in between.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I was just working on adding a manual dark mode toggle to Duckquill as &lt;a class=&quot;external&quot; rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;codeberg.org&#x2F;daudix&#x2F;duckquill&#x2F;issues&#x2F;5&quot;&gt;some people wanted to see it&lt;&#x2F;a&gt;, and it turned out to be a huge pain (who might’ve though), it needs either:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Having two separate stylesheets for dark&#x2F;light&lt;&#x2F;li&gt;
+&lt;li&gt;Having variables duplicated somewhere else&lt;&#x2F;li&gt;
+&lt;li&gt;Letting the JS manage the theme toggling instead of the browser, which of course will break if user has JS disabled.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The cleanest solution I’ve found is adding a checkbox that overrides the color variables to dark when checked, and adding JS that will save its state. This works, even with JS disabled, but it breaks the automatic theme switching based on OS style, ughhh.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
